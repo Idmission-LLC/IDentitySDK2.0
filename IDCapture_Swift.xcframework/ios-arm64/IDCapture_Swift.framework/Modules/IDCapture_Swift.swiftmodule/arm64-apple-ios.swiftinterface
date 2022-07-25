@@ -1,0 +1,29 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name IDCapture_Swift
+import AudioToolbox
+import CoreGraphics
+import Foundation
+@_exported import IDCapture_Swift
+import IDentitySDK_Swift
+import Swift
+import UIKit
+import _Concurrency
+extension IDentitySDK_Swift.Country : Swift.Equatable {
+  public static func == (lhs: IDentitySDK_Swift.Country, rhs: IDentitySDK_Swift.Country) -> Swift.Bool
+}
+extension IDentitySDK_Swift.State : Swift.Equatable {
+  public static func == (lhs: IDentitySDK_Swift.State, rhs: IDentitySDK_Swift.State) -> Swift.Bool
+}
+public struct ValidateIdResult {
+  public var front: IDentitySDK_Swift.DetectedData
+  public var back: IDentitySDK_Swift.DetectedData?
+  public func submit(completion: @escaping IDentitySDK_Swift.ValidateIdAPICompletion)
+}
+public typealias ValidateIdCompletion = (_ result: Swift.Result<IDCapture_Swift.ValidateIdResult, Swift.Error>) -> Swift.Void
+public typealias AutofillCompletion = (_ result: Swift.Result<IDentitySDK_Swift.AutofillResult, Swift.Error>) -> Swift.Void
+extension IDentitySDK_Swift.IDentitySDK {
+  public static var customerValidateIdRequest: IDentitySDK_Swift.CustomerValidateIdRequest?
+  public class func idValidation(from presenter: UIKit.UIViewController, options: IDentitySDK_Swift.AdditionalCustomerWFlagCommonData, completion: @escaping IDCapture_Swift.ValidateIdCompletion)
+  public class func autofill(from presenter: UIKit.UIViewController, completion: @escaping IDCapture_Swift.AutofillCompletion)
+}
