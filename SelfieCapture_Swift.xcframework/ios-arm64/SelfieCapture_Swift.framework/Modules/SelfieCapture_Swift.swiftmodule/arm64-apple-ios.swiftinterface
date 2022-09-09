@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)
+// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
 // swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SelfieCapture_Swift
 import AudioToolbox
 import Foundation
@@ -12,15 +12,15 @@ import _Concurrency
 public struct LiveFaceCheckResult {
   public var selfie: IDentitySDK_Swift.Selfie
   public var isFakeFace: Swift.Bool
-  public func submit(completion: @escaping IDentitySDK_Swift.LiveFaceCheckAPICompletion)
+  public func submit(additionalDocuments: [IDentitySDK_Swift.AdditionalDocumentsRequest]? = nil, completion: @escaping IDentitySDK_Swift.LiveFaceCheckAPICompletion)
 }
 public struct CustomerEnrollBiometricsResult {
   public var selfie: IDentitySDK_Swift.Selfie
-  public func submit(completion: @escaping IDentitySDK_Swift.CustomerEnrollBiometricsAPICompletion)
+  public func submit(additionalDocuments: [IDentitySDK_Swift.AdditionalDocumentsRequest]? = nil, completion: @escaping IDentitySDK_Swift.CustomerEnrollBiometricsAPICompletion)
 }
 public struct CustomerVerificationResult {
   public var selfie: IDentitySDK_Swift.Selfie
-  public func submit(completion: @escaping IDentitySDK_Swift.CustomerVerificationAPICompletion)
+  public func submit(additionalDocuments: [IDentitySDK_Swift.AdditionalDocumentsRequest]? = nil, completion: @escaping IDentitySDK_Swift.CustomerVerificationAPICompletion)
 }
 public struct CustomerIdentifyResult {
   public var selfie: IDentitySDK_Swift.Selfie
@@ -30,13 +30,13 @@ public struct ValidateIdMatchFaceResult {
   public var selfie: IDentitySDK_Swift.Selfie
   public var front: IDentitySDK_Swift.DetectedData
   public var back: IDentitySDK_Swift.DetectedData?
-  public func submit(completion: @escaping IDentitySDK_Swift.ValidateIdMatchFaceAPICompletion)
+  public func submit(additionalDocuments: [IDentitySDK_Swift.AdditionalDocumentsRequest]? = nil, completion: @escaping IDentitySDK_Swift.ValidateIdMatchFaceAPICompletion)
 }
 public struct CustomerEnrollResult {
   public var selfie: IDentitySDK_Swift.Selfie
   public var front: IDentitySDK_Swift.DetectedData
   public var back: IDentitySDK_Swift.DetectedData?
-  public func submit(cardToken: Swift.String? = nil, cardLast4: Swift.String? = nil, completion: @escaping IDentitySDK_Swift.ValidateIdCustomerEnrollAPICompletion)
+  public func submit(additionalDocuments: [IDentitySDK_Swift.AdditionalDocumentsRequest]? = nil, cardToken: Swift.String? = nil, cardLast4: Swift.String? = nil, completion: @escaping IDentitySDK_Swift.ValidateIdCustomerEnrollAPICompletion)
 }
 public typealias LiveFaceCheckCompletion = (_ result: Swift.Result<SelfieCapture_Swift.LiveFaceCheckResult, Swift.Error>) -> Swift.Void
 public typealias CustomerEnrollBiometricsCompletion = (_ result: Swift.Result<SelfieCapture_Swift.CustomerEnrollBiometricsResult, Swift.Error>) -> Swift.Void
