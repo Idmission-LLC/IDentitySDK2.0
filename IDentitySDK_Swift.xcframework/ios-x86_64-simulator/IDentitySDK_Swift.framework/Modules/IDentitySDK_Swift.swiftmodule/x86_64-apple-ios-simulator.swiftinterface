@@ -1563,6 +1563,7 @@ extension IDentitySDK_Swift.IDCapture {
     public var upperWidthThresholdTolerance: Swift.Float
     public var documentComponentConfidence: Swift.Float
     public var focusThreshold: Swift.Float
+    public var minimumFocusThreshold: Swift.Float
     public var isDebugMode: Swift.Bool
     public var capture4K: Swift.Bool
     public var uploadIdData: Swift.Bool
