@@ -12,6 +12,7 @@
 #import "xsltInternals.h"
 #import "transform.h"
 #import "xsltutils.h"
+#import "exslt.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

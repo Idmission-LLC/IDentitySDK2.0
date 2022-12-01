@@ -6,6 +6,6 @@ framework module IDCapture_Swift {
 }
 
 module IDCapture_Swift.Swift {
-    header "IDCapture_Swift-Swift.h"
-    requires objc
+  header "IDCapture_Swift-Swift.h"
+  requires objc
 }

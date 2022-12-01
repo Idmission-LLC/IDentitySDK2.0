@@ -1,0 +1,1014 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ValidateIdResult",
+        "printedName": "ValidateIdResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "front",
+            "printedName": "front",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DetectedData",
+                "printedName": "IDentitySDK_Swift.DetectedData",
+                "usr": "s:17IDentitySDK_Swift12DetectedDataV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15IDCapture_Swift16ValidateIdResultV5front012IDentitySDK_B012DetectedDataVvp",
+            "mangledName": "$s15IDCapture_Swift16ValidateIdResultV5front012IDentitySDK_B012DetectedDataVvp",
+            "moduleName": "IDCapture_Swift",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DetectedData",
+                    "printedName": "IDentitySDK_Swift.DetectedData",
+                    "usr": "s:17IDentitySDK_Swift12DetectedDataV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15IDCapture_Swift16ValidateIdResultV5front012IDentitySDK_B012DetectedDataVvg",
+                "mangledName": "$s15IDCapture_Swift16ValidateIdResultV5front012IDentitySDK_B012DetectedDataVvg",
+                "moduleName": "IDCapture_Swift",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DetectedData",
+                    "printedName": "IDentitySDK_Swift.DetectedData",
+                    "usr": "s:17IDentitySDK_Swift12DetectedDataV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15IDCapture_Swift16ValidateIdResultV5front012IDentitySDK_B012DetectedDataVvs",
+                "mangledName": "$s15IDCapture_Swift16ValidateIdResultV5front012IDentitySDK_B012DetectedDataVvs",
+                "moduleName": "IDCapture_Swift",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15IDCapture_Swift16ValidateIdResultV5front012IDentitySDK_B012DetectedDataVvM",
+                "mangledName": "$s15IDCapture_Swift16ValidateIdResultV5front012IDentitySDK_B012DetectedDataVvM",
+                "moduleName": "IDCapture_Swift",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "back",
+            "printedName": "back",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "IDentitySDK_Swift.DetectedData?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DetectedData",
+                    "printedName": "IDentitySDK_Swift.DetectedData",
+                    "usr": "s:17IDentitySDK_Swift12DetectedDataV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15IDCapture_Swift16ValidateIdResultV4back012IDentitySDK_B012DetectedDataVSgvp",
+            "mangledName": "$s15IDCapture_Swift16ValidateIdResultV4back012IDentitySDK_B012DetectedDataVSgvp",
+            "moduleName": "IDCapture_Swift",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "IDentitySDK_Swift.DetectedData?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DetectedData",
+                        "printedName": "IDentitySDK_Swift.DetectedData",
+                        "usr": "s:17IDentitySDK_Swift12DetectedDataV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15IDCapture_Swift16ValidateIdResultV4back012IDentitySDK_B012DetectedDataVSgvg",
+                "mangledName": "$s15IDCapture_Swift16ValidateIdResultV4back012IDentitySDK_B012DetectedDataVSgvg",
+                "moduleName": "IDCapture_Swift",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "IDentitySDK_Swift.DetectedData?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DetectedData",
+                        "printedName": "IDentitySDK_Swift.DetectedData",
+                        "usr": "s:17IDentitySDK_Swift12DetectedDataV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15IDCapture_Swift16ValidateIdResultV4back012IDentitySDK_B012DetectedDataVSgvs",
+                "mangledName": "$s15IDCapture_Swift16ValidateIdResultV4back012IDentitySDK_B012DetectedDataVSgvs",
+                "moduleName": "IDCapture_Swift",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15IDCapture_Swift16ValidateIdResultV4back012IDentitySDK_B012DetectedDataVSgvM",
+                "mangledName": "$s15IDCapture_Swift16ValidateIdResultV4back012IDentitySDK_B012DetectedDataVSgvM",
+                "moduleName": "IDCapture_Swift",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "submit",
+            "printedName": "submit(additionalDocuments:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[IDentitySDK_Swift.AdditionalDocumentsRequest]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[IDentitySDK_Swift.AdditionalDocumentsRequest]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AdditionalDocumentsRequest",
+                        "printedName": "IDentitySDK_Swift.AdditionalDocumentsRequest",
+                        "usr": "s:17IDentitySDK_Swift26AdditionalDocumentsRequestV"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<IDentitySDK_Swift.CustomerValidateIdResponse, Swift.Error>, [Swift.String : Any]?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(Swift.Result<IDentitySDK_Swift.CustomerValidateIdResponse, Swift.Error>, [Swift.String : Any]?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Result",
+                        "printedName": "Swift.Result<IDentitySDK_Swift.CustomerValidateIdResponse, Swift.Error>",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CustomerValidateIdResponse",
+                            "printedName": "IDentitySDK_Swift.CustomerValidateIdResponse",
+                            "usr": "s:17IDentitySDK_Swift26CustomerValidateIdResponseV"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Error",
+                            "printedName": "Swift.Error",
+                            "usr": "s:s5ErrorP"
+                          }
+                        ],
+                        "usr": "s:s6ResultO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "[Swift.String : Any]?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Dictionary",
+                            "printedName": "[Swift.String : Any]",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "ProtocolComposition",
+                                "printedName": "Any"
+                              }
+                            ],
+                            "usr": "s:SD"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15IDCapture_Swift16ValidateIdResultV6submit19additionalDocuments10completionySay012IDentitySDK_B0010AdditionalH7RequestVGSg_ys0E0OyAG08CustomercD8ResponseVs5Error_pG_SDySSypGSgtctF",
+            "mangledName": "$s15IDCapture_Swift16ValidateIdResultV6submit19additionalDocuments10completionySay012IDentitySDK_B0010AdditionalH7RequestVGSg_ys0E0OyAG08CustomercD8ResponseVs5Error_pG_SDySSypGSgtctF",
+            "moduleName": "IDCapture_Swift",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15IDCapture_Swift16ValidateIdResultV",
+        "mangledName": "$s15IDCapture_Swift16ValidateIdResultV",
+        "moduleName": "IDCapture_Swift",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AudioToolbox",
+        "printedName": "AudioToolbox",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "IDCapture_Swift"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Country",
+        "printedName": "Country",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Country",
+                "printedName": "IDentitySDK_Swift.Country",
+                "usr": "s:17IDentitySDK_Swift7CountryV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Country",
+                "printedName": "IDentitySDK_Swift.Country",
+                "usr": "s:17IDentitySDK_Swift7CountryV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17IDentitySDK_Swift7CountryV010IDCapture_C0E2eeoiySbAC_ACtFZ",
+            "mangledName": "$s17IDentitySDK_Swift7CountryV010IDCapture_C0E2eeoiySbAC_ACtFZ",
+            "moduleName": "IDCapture_Swift",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:17IDentitySDK_Swift7CountryV",
+        "mangledName": "$s17IDentitySDK_Swift7CountryV",
+        "moduleName": "IDentitySDK_Swift",
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "State",
+        "printedName": "State",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "State",
+                "printedName": "IDentitySDK_Swift.State",
+                "usr": "s:17IDentitySDK_Swift5StateV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "State",
+                "printedName": "IDentitySDK_Swift.State",
+                "usr": "s:17IDentitySDK_Swift5StateV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17IDentitySDK_Swift5StateV010IDCapture_C0E2eeoiySbAC_ACtFZ",
+            "mangledName": "$s17IDentitySDK_Swift5StateV010IDCapture_C0E2eeoiySbAC_ACtFZ",
+            "moduleName": "IDCapture_Swift",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:17IDentitySDK_Swift5StateV",
+        "mangledName": "$s17IDentitySDK_Swift5StateV",
+        "moduleName": "IDentitySDK_Swift",
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "IDentitySDK",
+        "printedName": "IDentitySDK",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "customerValidateIdRequest",
+            "printedName": "customerValidateIdRequest",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "IDentitySDK_Swift.CustomerValidateIdRequest?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CustomerValidateIdRequest",
+                    "printedName": "IDentitySDK_Swift.CustomerValidateIdRequest",
+                    "usr": "s:17IDentitySDK_Swift25CustomerValidateIdRequestV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:17IDentitySDK_Swift0aB0C010IDCapture_C0E25customerValidateIdRequestAA08CustomerfgH0VSgvpZ",
+            "mangledName": "$s17IDentitySDK_Swift0aB0C010IDCapture_C0E25customerValidateIdRequestAA08CustomerfgH0VSgvpZ",
+            "moduleName": "IDCapture_Swift",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "IDentitySDK_Swift.CustomerValidateIdRequest?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CustomerValidateIdRequest",
+                        "printedName": "IDentitySDK_Swift.CustomerValidateIdRequest",
+                        "usr": "s:17IDentitySDK_Swift25CustomerValidateIdRequestV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:17IDentitySDK_Swift0aB0C010IDCapture_C0E25customerValidateIdRequestAA08CustomerfgH0VSgvgZ",
+                "mangledName": "$s17IDentitySDK_Swift0aB0C010IDCapture_C0E25customerValidateIdRequestAA08CustomerfgH0VSgvgZ",
+                "moduleName": "IDCapture_Swift",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "IDentitySDK_Swift.CustomerValidateIdRequest?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CustomerValidateIdRequest",
+                        "printedName": "IDentitySDK_Swift.CustomerValidateIdRequest",
+                        "usr": "s:17IDentitySDK_Swift25CustomerValidateIdRequestV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:17IDentitySDK_Swift0aB0C010IDCapture_C0E25customerValidateIdRequestAA08CustomerfgH0VSgvsZ",
+                "mangledName": "$s17IDentitySDK_Swift0aB0C010IDCapture_C0E25customerValidateIdRequestAA08CustomerfgH0VSgvsZ",
+                "moduleName": "IDCapture_Swift",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:17IDentitySDK_Swift0aB0C010IDCapture_C0E25customerValidateIdRequestAA08CustomerfgH0VSgvMZ",
+                "mangledName": "$s17IDentitySDK_Swift0aB0C010IDCapture_C0E25customerValidateIdRequestAA08CustomerfgH0VSgvMZ",
+                "moduleName": "IDCapture_Swift",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "idValidation",
+            "printedName": "idValidation(from:options:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AdditionalCustomerWFlagCommonData",
+                "printedName": "IDentitySDK_Swift.AdditionalCustomerWFlagCommonData",
+                "usr": "s:17IDentitySDK_Swift33AdditionalCustomerWFlagCommonDataV"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<IDCapture_Swift.ValidateIdResult, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<IDCapture_Swift.ValidateIdResult, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ValidateIdResult",
+                        "printedName": "IDCapture_Swift.ValidateIdResult",
+                        "usr": "s:15IDCapture_Swift16ValidateIdResultV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17IDentitySDK_Swift0aB0C010IDCapture_C0E12idValidation4from7options10completionySo16UIViewControllerC_AA33AdditionalCustomerWFlagCommonDataVys6ResultOyAD010ValidateIdQ0Vs5Error_pGctFZ",
+            "mangledName": "$s17IDentitySDK_Swift0aB0C010IDCapture_C0E12idValidation4from7options10completionySo16UIViewControllerC_AA33AdditionalCustomerWFlagCommonDataVys6ResultOyAD010ValidateIdQ0Vs5Error_pGctFZ",
+            "moduleName": "IDCapture_Swift",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "autofill",
+            "printedName": "autofill(from:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<IDentitySDK_Swift.AutofillResult, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<IDentitySDK_Swift.AutofillResult, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AutofillResult",
+                        "printedName": "IDentitySDK_Swift.AutofillResult",
+                        "usr": "s:17IDentitySDK_Swift14AutofillResultV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17IDentitySDK_Swift0aB0C010IDCapture_C0E8autofill4from10completionySo16UIViewControllerC_ys6ResultOyAA08AutofillJ0Vs5Error_pGctFZ",
+            "mangledName": "$s17IDentitySDK_Swift0aB0C010IDCapture_C0E8autofill4from10completionySo16UIViewControllerC_ys6ResultOyAA08AutofillJ0Vs5Error_pGctFZ",
+            "moduleName": "IDCapture_Swift",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:17IDentitySDK_Swift0aB0C",
+        "mangledName": "$s17IDentitySDK_Swift0aB0C",
+        "moduleName": "IDentitySDK_Swift",
+        "isExternal": true,
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/UIImage+IDCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 696,
+      "length": 27,
+      "value": "\"id_capture_instruction_pp\""
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/UIImage+IDCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 754,
+      "length": 27,
+      "value": "\"id_capture_instruction_dl\""
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/UIImage+IDCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 696,
+      "length": 27,
+      "value": "\"id_capture_instruction_pp\""
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/UIImage+IDCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 754,
+      "length": 27,
+      "value": "\"id_capture_instruction_dl\""
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectStateTableViewController.swift",
+      "kind": "Array",
+      "offset": 350,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "FloatLiteral",
+      "offset": 7907,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "FloatLiteral",
+      "offset": 8011,
+      "length": 5,
+      "value": "127.5"
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "FloatLiteral",
+      "offset": 8050,
+      "length": 5,
+      "value": "127.5"
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1969,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "Array",
+      "offset": 2274,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "Array",
+      "offset": 2331,
+      "length": 2,
+      "value": "[]"
+    }
+  ]
+}

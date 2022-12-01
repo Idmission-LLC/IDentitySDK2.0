@@ -6,6 +6,6 @@ framework module IDentitySDK_Swift {
 }
 
 module IDentitySDK_Swift.Swift {
-    header "IDentitySDK_Swift-Swift.h"
-    requires objc
+  header "IDentitySDK_Swift-Swift.h"
+  requires objc
 }

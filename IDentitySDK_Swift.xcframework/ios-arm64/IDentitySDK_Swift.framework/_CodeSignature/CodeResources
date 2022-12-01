@@ -6,23 +6,23 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		UlPz8MM027ZxGRQs/gCzrzkgNRw=
+		zBXwuzfKGnljSpcv+fydHcrk7nw=
 		</data>
-		<key>ClassifierTrainingModel_UNIQUE_KEY_ID_4183_20220825033033.tflite</key>
+		<key>ClassifierTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
 		<data>
-		QdQ3BdGatym8HwfCLHvsKuOr8+4=
+		oJ5rt5l63b931zg6cPl3bBS1QGc=
 		</data>
-		<key>DocDetectionTrainingModel_UNIQUE_KEY_ID_4183_20220825033033.tflite</key>
+		<key>DocDetectionTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
 		<data>
-		QkJKEdTmA9QeZvfPW73oul/M17o=
+		9RAcZqOhRdZqo6hz0YzVDcanzSo=
 		</data>
 		<key>DocumentCapture.storyboardc/1Pk-oV-bqy-view-n8U-9k-eXr.nib/objects-14.0+.nib</key>
 		<data>
-		/Cbp1RXTwSGi4ZQEGfVlBhcqXsc=
+		2At36GWRj5jPoqGPA0eHQ6E5g1g=
 		</data>
 		<key>DocumentCapture.storyboardc/1Pk-oV-bqy-view-n8U-9k-eXr.nib/runtime.nib</key>
 		<data>
-		/Cbp1RXTwSGi4ZQEGfVlBhcqXsc=
+		2At36GWRj5jPoqGPA0eHQ6E5g1g=
 		</data>
 		<key>DocumentCapture.storyboardc/DocumentCaptureInstructionsViewController.nib/objects-14.0+.nib</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>DocumentCapture.storyboardc/DocumentCaptureViewController.nib/objects-14.0+.nib</key>
 		<data>
-		vy52vx3kgQ6Z57vdcZZNfyLd95c=
+		ecvaXfnK8kCD7IMtIB/wV4hgQnI=
 		</data>
 		<key>DocumentCapture.storyboardc/DocumentCaptureViewController.nib/runtime.nib</key>
 		<data>
-		vy52vx3kgQ6Z57vdcZZNfyLd95c=
+		ecvaXfnK8kCD7IMtIB/wV4hgQnI=
 		</data>
 		<key>DocumentCapture.storyboardc/DocumentUploadViewController.nib/objects-14.0+.nib</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>DocumentCapture.storyboardc/Nz6-Xg-y6r-view-18I-ZM-9wZ.nib/objects-14.0+.nib</key>
 		<data>
-		oDFF9HZuS+VhcfW7yTlHOJ2dbnU=
+		U+e67dLLLukFEHTFj5F/CTq/ZH8=
 		</data>
 		<key>DocumentCapture.storyboardc/Nz6-Xg-y6r-view-18I-ZM-9wZ.nib/runtime.nib</key>
 		<data>
-		lgR0KoXdOw0CwguvSf97R6t9/T4=
+		DtG+L38rePbst82T4SQgEJEJ5OQ=
 		</data>
 		<key>DocumentCapture.storyboardc/RetryViewController.nib/objects-14.0+.nib</key>
 		<data>
@@ -78,35 +78,31 @@
 		</data>
 		<key>DocumentCapture.storyboardc/bv3-fe-or7-view-dWP-aa-uph.nib/objects-14.0+.nib</key>
 		<data>
-		e6mxCpZw1pRMaBS+aAljd7nCj0U=
+		C//KrX4eN+e+iBjFBB3BJMEMkm0=
 		</data>
 		<key>DocumentCapture.storyboardc/bv3-fe-or7-view-dWP-aa-uph.nib/runtime.nib</key>
 		<data>
-		Oz30wO2dk8Vlb+7ByLD0xHjADiY=
+		cYdZzda+r/tvDDBrSkECtm/q6eU=
 		</data>
 		<key>DocumentCapture.storyboardc/uZ1-C4-XDq-view-stv-OC-CZ5.nib/objects-14.0+.nib</key>
 		<data>
-		E1cF6aWf1l5TJJIwf0/IPjHgowU=
+		mqg6Gvk6oYNbcPFasdTunI1wZ80=
 		</data>
 		<key>DocumentCapture.storyboardc/uZ1-C4-XDq-view-stv-OC-CZ5.nib/runtime.nib</key>
 		<data>
-		E1cF6aWf1l5TJJIwf0/IPjHgowU=
+		mqg6Gvk6oYNbcPFasdTunI1wZ80=
 		</data>
 		<key>DocumentCapture.storyboardc/vOZ-qx-4e5-view-VEb-Bo-e7P.nib/objects-14.0+.nib</key>
 		<data>
-		PkjrqCbtMdgUhwy4jv4xQuoNb/A=
+		jrptV/mckUR0khENg6fgU5Qymfc=
 		</data>
 		<key>DocumentCapture.storyboardc/vOZ-qx-4e5-view-VEb-Bo-e7P.nib/runtime.nib</key>
 		<data>
-		PkjrqCbtMdgUhwy4jv4xQuoNb/A=
+		jrptV/mckUR0khENg6fgU5Qymfc=
 		</data>
-		<key>FaceMaskTrainingModel_UNIQUE_KEY_ID_4183_20220825033033.tflite</key>
+		<key>FaceMaskTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
 		<data>
-		8vuhqhcOKBXN3YGyTLJ68VLoPzA=
-		</data>
-		<key>FocusTrainingModel_UNIQUE_KEY_ID_4183_20220825033033.tflite</key>
-		<data>
-		Y9+FQUOLZm2Z50H4aApL7Ga1XNc=
+		uKFdcwQhUhlcllZDAKgSNfBEfv0=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -122,7 +118,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		YMWY+dj3T+9i/cvTZvlGSJ3Dmn4=
+		46PL4VlXy5+zZI2eojGG8ivexMA=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -135,6 +131,26 @@
 		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_fastgray.pb</key>
 		<data>
 		DP+qJf0czliL6znGLVx90ASNzCY=
+		</data>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		o6m3txKLAJrMiafXpHL/YdCcm8o=
+		</data>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		eVDP2dnEwR5MdY95R1aRg9ZQBNk=
+		</data>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		vlTi55nsP9l7gFx5i1MIqNg5QSk=
+		</data>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		MhB3UG8viKa+dwO2iK7bMpceck0=
+		</data>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		OItovQrfkUp1y5uvtxuhxyQUN7c=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
 		<data>
@@ -166,7 +182,7 @@
 		</data>
 		<key>Headers/IDentitySDK_Swift-Swift.h</key>
 		<data>
-		FANJNXYtre8alv1B6ZbuszQQASo=
+		xe7GqUgj49559xAO1MJuQCXPn3Q=
 		</data>
 		<key>Headers/IDentitySDK_Swift.h</key>
 		<data>
@@ -174,7 +190,7 @@
 		</data>
 		<key>Headers/IDentityXSLT.h</key>
 		<data>
-		7cgx3mDA/nBtpvZ1WWdgD+S/GFc=
+		Kw5kU13Uro49wJDcrtNx0+l5TsY=
 		</data>
 		<key>Headers/RSA.h</key>
 		<data>
@@ -194,23 +210,35 @@
 		</data>
 		<key>Headers/config.h</key>
 		<data>
-		FqocAWSYsoX5ZF7ohjFfJDSfa+k=
+		W+R6BmBqyp8Bs7Qq+eCKaMR5Lqk=
 		</data>
 		<key>Headers/documents.h</key>
 		<data>
 		0BPJqJ/6BW8KyfLdtuq2ZgLRtgY=
 		</data>
+		<key>Headers/exslt.h</key>
+		<data>
+		fhc0ood3aVHaiblr8Wk3DLNJs+s=
+		</data>
+		<key>Headers/exsltconfig.h</key>
+		<data>
+		XrWc9OinF30+ExZWQ0RmHplnglk=
+		</data>
+		<key>Headers/exsltexports.h</key>
+		<data>
+		3rY6YAi/2Tihj0RtMQHdnRZY7Aw=
+		</data>
 		<key>Headers/extensions.h</key>
 		<data>
-		H+vEsb0SY5XIxjFbnjtdaFC9zq0=
+		AxB977NZe09ovwR6WxFE/ak37qQ=
 		</data>
 		<key>Headers/extra.h</key>
 		<data>
-		ioUtxsf611+gQoWYQZxLzWoYGcQ=
+		BTW21li6IBny6q+qKTD9sI/LV28=
 		</data>
 		<key>Headers/functions.h</key>
 		<data>
-		+ZcNl4Jw0Na0skGrkYcU9TZBcXY=
+		5+tLyxxD6IaF1tvRwBW74JbQIrQ=
 		</data>
 		<key>Headers/imports.h</key>
 		<data>
@@ -220,9 +248,13 @@
 		<data>
 		Z82p9i4Cv+rl17b2OGJXir4yBL0=
 		</data>
+		<key>Headers/libexslt.h</key>
+		<data>
+		TvC9CEEv7+z1v20yCNevUDzvKdo=
+		</data>
 		<key>Headers/libxslt.h</key>
 		<data>
-		TewQKTNLWgGAiPJ7m7Ze+YcbCPQ=
+		Pb4IxVY4FmkeQkalji0bMMTbgB4=
 		</data>
 		<key>Headers/namespaces.h</key>
 		<data>
@@ -234,11 +266,11 @@
 		</data>
 		<key>Headers/pattern.h</key>
 		<data>
-		0RtfoDfy5PFIoL2jdzMcgZB4zao=
+		/HomCmjl4os1GqGfB/36OR3NuWs=
 		</data>
 		<key>Headers/preproc.h</key>
 		<data>
-		9LLcWhboZLQ8M8noU80iuN5Assk=
+		xDiK/DoTpB+C53jvY9AxnXydqq8=
 		</data>
 		<key>Headers/security.h</key>
 		<data>
@@ -250,7 +282,7 @@
 		</data>
 		<key>Headers/transform.h</key>
 		<data>
-		FAa7vr8Dt5vJratQJRiGUIIAnAM=
+		9UkUD62CRG6HBUZy5GxXhc54aCc=
 		</data>
 		<key>Headers/trio.h</key>
 		<data>
@@ -262,7 +294,7 @@
 		</data>
 		<key>Headers/variables.h</key>
 		<data>
-		EHdpPEDmd3bYjruPQVBag3hijW0=
+		o3HFrfhHTMRQOelsrzUUysR4Kyk=
 		</data>
 		<key>Headers/xslt.h</key>
 		<data>
@@ -270,35 +302,55 @@
 		</data>
 		<key>Headers/xsltInternals.h</key>
 		<data>
-		JU7zoLAoHUhk4QpcqoiMkzteSDE=
+		tJCYLuIBrEw4j1FSAvJzxj3NUm0=
 		</data>
 		<key>Headers/xsltconfig.h</key>
 		<data>
-		7dv4ghh4+u+nvijA8FMfUTLoD+8=
+		Z0wsqgtfDZZwbRIxLotXuYRzdrw=
 		</data>
 		<key>Headers/xsltexports.h</key>
 		<data>
-		m65lLuqAYXZcdmCTuwtgz0DLGgk=
+		t50H/J7jHCg+wuoT84HSaJXdylU=
 		</data>
 		<key>Headers/xsltlocale.h</key>
 		<data>
-		qR+1s965U4x7e4kRQvD4tiqyZGg=
+		t6J91QOB6uOyM4QmRjr4HkG9SDw=
 		</data>
 		<key>Headers/xsltutils.h</key>
 		<data>
-		a6wCLJRBu9IYZLRuas5RwAaZYfo=
+		kaJR25wXLG/fzOUUQZTZ4TIeR+k=
 		</data>
-		<key>IdTrainingModel_UNIQUE_KEY_ID_4183_20220825033033.tflite</key>
+		<key>IdTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
 		<data>
-		izQM45fK2LpgMejN9PZSxqy6Eh0=
+		FfplTZPAsWZieQ6L9OEAyiQOhmU=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HhlWx0Snkf00V+bts24xVcyXS7Q=
+		/Cqv5J4t90wAqKdEUOL58+XPo2s=
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		3Bu9uWBnhasBURgWWdfAgZ8Jbas=
+		brvxJfgx3ZpDsVAFKOXClSPow1s=
+		</data>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		SSofgqe7AnMuvC53QAckZeVcozA=
+		</data>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		QX683iRAr25EkL/qGVIEQ6X4L8Y=
+		</data>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		fVOUG0qT/Kgamnq5cQSUce5xddo=
+		</data>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		wAcvRDpr4WwSmhX9K6fHkl08qbg=
+		</data>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		cCWDN3TL7/8m0donzFDxKV3sivA=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -334,7 +386,27 @@
 		</data>
 		<key>MLKitImageLabelingResources.bundle/Info.plist</key>
 		<data>
-		lvo8dqY7+mezEwrEMKXvhVhPmWA=
+		0WeE6Vhwcb/2C5/mjXPzZuSw7wk=
+		</data>
+		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		Z6pibJuoLdfOfuEPu6bCCoUsI/k=
+		</data>
+		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		idcg9dCKu9Oij2Kat9u3LB2w+/o=
+		</data>
+		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		hWURHZ0JLIy4YkHJSp0ZDncwYQQ=
+		</data>
+		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		sdKDbo3JaGtSPpx9uvLxubOXuWU=
+		</data>
+		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		q2Re/FP0UmSOoNoGW7+huuRT6I4=
 		</data>
 		<key>MLKitImageLabelingResources.bundle/mobile_ica_8bit_with_metadata.tflite</key>
 		<data>
@@ -342,7 +414,27 @@
 		</data>
 		<key>MLKitObjectDetectionCommonResources.bundle/Info.plist</key>
 		<data>
-		KGWyt4xy43jrYLfjouIcOgopH60=
+		yRoJ8kxIvZDuwmNOIPYqMtJyVpc=
+		</data>
+		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		AseYCT6CMQAQlIKCaL1c62ZzkMs=
+		</data>
+		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		5nmogrtx77AvhC0cNE4xuDLj3r8=
+		</data>
+		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		GNBFXXuduBlbgEApaT4/AaiUMvs=
+		</data>
+		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		v/scRL/u1ILQbjj+DIQdJw7q/zM=
+		</data>
+		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		7sRxh1Qc6wpYXBvl8zeTVciIviM=
 		</data>
 		<key>MLKitObjectDetectionCommonResources.bundle/mobile_object_localizer_3_1_anchors.pb</key>
 		<data>
@@ -358,27 +450,35 @@
 		</data>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		IUQkcjwSN7s9jKwpfXLGjhPM7UE=
+		8mEjpJalSZhrGghE+m8iMIX63W0=
+		</data>
+		<key>Modules/IDentitySDK_Swift.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		idRU5QoZGNeQqiriar+mbuPPjxs=
+		</data>
+		<key>Modules/IDentitySDK_Swift.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		zgxE2+2wMBefIF1QXk0ysWn465Y=
 		</data>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		UB5FqbSALp75CxkNiApHlj7/KVY=
+		K2OFPNoroLTWJlkvrF3xljIDEm4=
 		</data>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		TE4gWAm8fl2T882CmclVKAeaAbY=
+		zgxE2+2wMBefIF1QXk0ysWn465Y=
 		</data>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		doQ9QZPOEwuWKHDmngurNDSzUTQ=
+		mFxPf9Km/dwzIkIhgwzXiKF1XJg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Mny61Tvy8YpzRsJI+jTU9+huHSk=
+		f2s2bxKqjoiAeIrzzZxb4EN48vY=
 		</data>
-		<key>PassiveFaceTrainingModel_UNIQUE_KEY_ID_4183_20220825033033.tflite</key>
+		<key>PassiveFaceTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
 		<data>
-		FsqtTRHPxNmcev4LvwEF84NFXW4=
+		UdzRNZH9aikeZcl8rO2FCWROVrQ=
 		</data>
 		<key>model.tflite</key>
 		<data>
@@ -391,35 +491,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wbCNT12ubkG6J4JKf+BoIPimILOG98iaBXdX+L5mmG0=
+			mLH+s63Lx+eDNxjiaatjUAYR/tg0WJNK7pmsQfXvbbw=
 			</data>
 		</dict>
-		<key>ClassifierTrainingModel_UNIQUE_KEY_ID_4183_20220825033033.tflite</key>
+		<key>ClassifierTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tB1SZfXEXV762jPpUdK74XZKHLJ38hIJBe0dfyQQVbc=
+			61ug+rj38KuAlmQcQoWL4I/AgBnPhniDS0MwWfKvyn0=
 			</data>
 		</dict>
-		<key>DocDetectionTrainingModel_UNIQUE_KEY_ID_4183_20220825033033.tflite</key>
+		<key>DocDetectionTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BuDqJerTwkSSCCw5M4D5D4msR+oSq2OSzjeC0+PD76A=
+			CruEXgl/SaazCDxR0CsV6yvk0Mh3cYW7Dz2wh9VWRks=
 			</data>
 		</dict>
 		<key>DocumentCapture.storyboardc/1Pk-oV-bqy-view-n8U-9k-eXr.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9xhP23qlCv1X3Qqm8krmMby+74oEQnTtJwyw3VACpaI=
+			0PKYw3mrQg1K5cmb9n3RGgaW77lr9sCX2VkaNtisGdY=
 			</data>
 		</dict>
 		<key>DocumentCapture.storyboardc/1Pk-oV-bqy-view-n8U-9k-eXr.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9xhP23qlCv1X3Qqm8krmMby+74oEQnTtJwyw3VACpaI=
+			0PKYw3mrQg1K5cmb9n3RGgaW77lr9sCX2VkaNtisGdY=
 			</data>
 		</dict>
 		<key>DocumentCapture.storyboardc/DocumentCaptureInstructionsViewController.nib/objects-14.0+.nib</key>
@@ -454,14 +554,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zZtX7j8hV8abvHf8TkI7oO0nd2POfCHrTi4ChpBonfY=
+			6iY8pW/TJ/o4w6XlEPVFvhWd89W7nBApTt0XvDSvbXk=
 			</data>
 		</dict>
 		<key>DocumentCapture.storyboardc/DocumentCaptureViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zZtX7j8hV8abvHf8TkI7oO0nd2POfCHrTi4ChpBonfY=
+			6iY8pW/TJ/o4w6XlEPVFvhWd89W7nBApTt0XvDSvbXk=
 			</data>
 		</dict>
 		<key>DocumentCapture.storyboardc/DocumentUploadViewController.nib/objects-14.0+.nib</key>
@@ -489,14 +589,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9RXVyXX8cq9rcwGPPUh+sDINgiIbJH2CDkkNIC5gH7E=
+			Tros/BrBrs6q0Q2dk75Ag3phPOteFv6WxCJxi4CvriM=
 			</data>
 		</dict>
 		<key>DocumentCapture.storyboardc/Nz6-Xg-y6r-view-18I-ZM-9wZ.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mtjcJBXynUnZvEWL60EcSbGqpJmcFOQDmcyXsSOFoQ8=
+			Aarz5c0K2ooN2K+ZMKr3xuSvE7hmi/ShM3zG3heMYP4=
 			</data>
 		</dict>
 		<key>DocumentCapture.storyboardc/RetryViewController.nib/objects-14.0+.nib</key>
@@ -517,56 +617,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fuG/3nHYJAeafCO5KPhW7VZdRengAk29OPNuHoBaJf0=
+			Sk7izEHxkl0X7bChRlgsP9jrsiXXT1O8dzkwjB8aui0=
 			</data>
 		</dict>
 		<key>DocumentCapture.storyboardc/bv3-fe-or7-view-dWP-aa-uph.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2qabuTKM7MTYf6+i2iilkX6nmt9QsjtnUhg0G3qlkw8=
+			ZKXP19CUxIOFQv/3ZdZqy6ZWsaCdKyQAxWZ+9SaMpzM=
 			</data>
 		</dict>
 		<key>DocumentCapture.storyboardc/uZ1-C4-XDq-view-stv-OC-CZ5.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SO/tWoYWe6cGMsznmchnLJREkReGcrKvz4RNIOdXaGE=
+			wtsQ2VtgaLMYJOtkfIqSrRtQx5ROnisDaklPbDAmKnk=
 			</data>
 		</dict>
 		<key>DocumentCapture.storyboardc/uZ1-C4-XDq-view-stv-OC-CZ5.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SO/tWoYWe6cGMsznmchnLJREkReGcrKvz4RNIOdXaGE=
+			wtsQ2VtgaLMYJOtkfIqSrRtQx5ROnisDaklPbDAmKnk=
 			</data>
 		</dict>
 		<key>DocumentCapture.storyboardc/vOZ-qx-4e5-view-VEb-Bo-e7P.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SUH1qjKIzgPJ1nQuin0aJSatg+RHeiZv1GiCWlEzptc=
+			/fg6yv2qHud3+kEmlnDvQNJZPLtiliXi0u2z5e2VmpM=
 			</data>
 		</dict>
 		<key>DocumentCapture.storyboardc/vOZ-qx-4e5-view-VEb-Bo-e7P.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SUH1qjKIzgPJ1nQuin0aJSatg+RHeiZv1GiCWlEzptc=
+			/fg6yv2qHud3+kEmlnDvQNJZPLtiliXi0u2z5e2VmpM=
 			</data>
 		</dict>
-		<key>FaceMaskTrainingModel_UNIQUE_KEY_ID_4183_20220825033033.tflite</key>
+		<key>FaceMaskTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QGHa9awBEvk6ZWI5G/ZprQINiIhZe7P74fRfbvbPRLk=
-			</data>
-		</dict>
-		<key>FocusTrainingModel_UNIQUE_KEY_ID_4183_20220825033033.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Z0+LU43Yf149uDIlz5MjLvQrDVPlvhjdyWC0O2szJCk=
+			CZm/1tQSfhHlnEUamXZpavrOmDZ3LyTcr5Hub5U42II=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -594,7 +687,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uN5hvUFlXXOITj2rCQBOVqQhEn3E4E0rNIQ1ekvnaXc=
+			ANwijd1NV9lwzEgre4GO2//bQd4u5q1b17RV2TrK1Ww=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -616,6 +709,41 @@
 			<key>hash2</key>
 			<data>
 			CUNCXfGzUODFinvmaL4flC6sM4wZjhpPFoWco+Eif0U=
+			</data>
+		</dict>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aYTaRN2AqaHFVnn/60TmnneHJ9Z5KETxWmh6uH0pmkM=
+			</data>
+		</dict>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			k+6fzgEdFP4GWPE2sV+7/NE5drYMOsJg/VZbNinYNj4=
+			</data>
+		</dict>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OVo30BwUPfW/FE5MXdEk23a/l146oQYr3VcOfFGk6d4=
+			</data>
+		</dict>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2gju7+eYFs+Uf0FIDqLbFLpDnmzKCESbbVyK2OSSbAk=
+			</data>
+		</dict>
+		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2wQ2iTXoZD2MO6i9GFd3+4gY+PIBAwj/Zyceskrs+Ck=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
@@ -671,7 +799,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1UY9L6+M07R6RV30wsM8QZjFrAXUEbrTKL7gsepHalo=
+			9H36/JF1qyM7UR29CpSEkclIPOS+iaIPKQfia1snco0=
 			</data>
 		</dict>
 		<key>Headers/IDentitySDK_Swift.h</key>
@@ -685,7 +813,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d9jKHxwCGzcsiklJL1YpxcfbHtZFcQxUg6inxvevXzc=
+			U/aNEdTvONPMBD9bsPi1CjDtOPX8RD9X/RlBcRVnIR4=
 			</data>
 		</dict>
 		<key>Headers/RSA.h</key>
@@ -720,7 +848,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UZEJg4bydpaaOnV0dpoMPYAgmbqZsSf038B+XzJqfYA=
+			RCoSUi7hrVt4UDMpm4zSvPqWXlFEx5kcyiL+8rZMOs0=
 			</data>
 		</dict>
 		<key>Headers/documents.h</key>
@@ -730,25 +858,46 @@
 			kBihgH5pqRvFalhm/fOFHtJTFhTpBcm681yT5dxgwfw=
 			</data>
 		</dict>
+		<key>Headers/exslt.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JFOdgAgtZdN/WCV/Digs2IfAx7GFdBQonfu4kaNhtDE=
+			</data>
+		</dict>
+		<key>Headers/exsltconfig.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MRe0CZaYdpStOZNO9jswd7MHbQlYroJYhXJ3zz7tp+c=
+			</data>
+		</dict>
+		<key>Headers/exsltexports.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1Jm9KTXm2FUUJIZ6V6+Uw55yG0BMULX3/goyxDd2LL8=
+			</data>
+		</dict>
 		<key>Headers/extensions.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bTyuv5/mj+RdPFhpT89LIM+iaMJ5dZtJFJkq0sbfaxE=
+			W5UMyJqUP/1zt6sXZ0mgc0gAIwDJrZ8gjByhyrWqvd8=
 			</data>
 		</dict>
 		<key>Headers/extra.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4cRsPsI43jr9j20YktRUMpQMil7rkI+mtFhvqCPa5zE=
+			6X3Wu3NdPtrlqz+Koo7dB+rccnnszi6j3zg599gTByg=
 			</data>
 		</dict>
 		<key>Headers/functions.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LOR4F+xCPfST2QulovzKF2bQvan/Xw/jjaF5pqECDdM=
+			fc4CZj+9KeBHzO9+WWU/bNqmaEZAz3n7NNwClIBXk14=
 			</data>
 		</dict>
 		<key>Headers/imports.h</key>
@@ -765,11 +914,18 @@
 			16v25VEluS7jYhgg6gYFwVxgGMn+1ctnlhhWWT4RcBY=
 			</data>
 		</dict>
+		<key>Headers/libexslt.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CoFsTKHIusxyoviId9ukuzCVXTFMPzDg9D5R1wy7ZwY=
+			</data>
+		</dict>
 		<key>Headers/libxslt.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H3bNrinm1PTtDg4RuwZFeZp5oJKGi5uOAPiXijA/VxE=
+			S3JtiSXp8pCdzqQ7yxI8GjFD3x1wBCPVS4UijKAic2s=
 			</data>
 		</dict>
 		<key>Headers/namespaces.h</key>
@@ -790,14 +946,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			guN++02T1BimNNZxySofWFs91rRwIfqVOkbnr5vkAuY=
+			tJ+BPfs9UYgiZMMoQZbhij3g7xVppYq7TrrOu25eR7Q=
 			</data>
 		</dict>
 		<key>Headers/preproc.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+19NH8t3q1NGsG6OsnctVHkk43tfNgbp1ei5glt/jNU=
+			D/LjEdHhsdyBnEAvflnwFgoR4hGUb72kgEhXkkmPRsw=
 			</data>
 		</dict>
 		<key>Headers/security.h</key>
@@ -818,7 +974,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4F07WKXa6HgVw+JYgk6BuFJTuDqMMekEJwLxMDUEzss=
+			L7oNyHoOVd9KMJWaMtvPLno0foRAqGNWxtRXafO3IEA=
 			</data>
 		</dict>
 		<key>Headers/trio.h</key>
@@ -839,7 +995,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3VId15tbd+1ye+LnvCmVvWKRxjXXbuoESiqytL8DeNg=
+			cQAgPe4QCcK2uKbWg7Iz+9peM9xWGm7m3M6jQm0sjIA=
 			</data>
 		</dict>
 		<key>Headers/xslt.h</key>
@@ -853,49 +1009,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JK9WEtdKtUSpEjeQykTnG2HivEZmTC4gc8/odp5zyfA=
+			ycZKzpx8HO46XO8mEbY0twnwD3VLL+syecXiqSILY3M=
 			</data>
 		</dict>
 		<key>Headers/xsltconfig.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			07mw4Cyv4br9BvwXYpflTzCDsKEBtXH+CgBK5b4mSq0=
+			YE0ZThOZ34byBByI2EL6YPEVISnVfPK2lf0VII5dmN4=
 			</data>
 		</dict>
 		<key>Headers/xsltexports.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QLg1cfT3LW3m1iQnduDbstdg88cIBlPkaxMx3hlB7vE=
+			1+luH+0bCIgBAlKAXhV+dqHBfwOAQNDamiYbxIlTf0k=
 			</data>
 		</dict>
 		<key>Headers/xsltlocale.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8I8SnShJpf6sPs4wDEnNT3dh4efnlBMEJXTYRJRBtPU=
+			kv2FyQy1LYnGBlUaralQfmkd/7bprPVXTQYttrT006Y=
 			</data>
 		</dict>
 		<key>Headers/xsltutils.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XmZGbwTDpYoTP601wcCiR4ViTPFC2JzZHO0C+YLBLiI=
+			aYNprLbIgDX45Q7oHJ1IwMY9px2AfQV2tO0IZF2Ssfc=
 			</data>
 		</dict>
-		<key>IdTrainingModel_UNIQUE_KEY_ID_4183_20220825033033.tflite</key>
+		<key>IdTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ljsLcNk9/6Dw2OHth401cThWPApxV2PMnZrzcXh20ZQ=
+			p3Xai3ATyaowU+xHvfPH44VIq8RCi8NmLu3Ush+Ycr4=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zL53RJKtmpR1lHjAMumJ1ufYK/Gai8FWjCg1wsowaU0=
+			P9e31siF1baZhH9N+N2X8UZadERPt1YVNm3fNQZWl0g=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Wo6iLsKiHijucs4Z+Pn4gr+C9X2N2dIp9DQHROMVZrw=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7LNgpAW1otKk+K1+v1HnObc60LprhIf/eVD9tJDxsKE=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cQUARfAXhJN3/liQxupkdIVS4S4W1t7RHiqQDs5v500=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			invF7KpCHCac7fmWM4LSKwZVfsuUXzSgywbk4dGvZ3c=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			r3zCTdw8/TkwW7oGvmSHeHmZjWglbhPLgZ/9ZzE+mis=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -958,7 +1149,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aMp+UFRRBEW+VXFcA1O1R2HgrhXYxaFTy6uZswxhdT8=
+			g5WuBTH1BxlQl2WC5MpGCIhsx/S2WmiBa5SpVriGIcE=
+			</data>
+		</dict>
+		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GbiuKUksYyV/HWUd4Bvi4dMidJtVaGDC/UEHEJUx5qQ=
+			</data>
+		</dict>
+		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TvpHPFKLYLntLEN8mZDeJmE9l7aFt7wfKPACjt+AL2s=
+			</data>
+		</dict>
+		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			weLWxWBEHLZI7ba1yF4Tl7dlIn3YT7MiH1tQoDtBMIE=
+			</data>
+		</dict>
+		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			habA7l1TIj65/Ea8TSGDvuFb75GE/gIOoYkchvVdaBo=
+			</data>
+		</dict>
+		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JhUS+YjxqpMEvOUgQ5W4q2ehdQBHGsB2ZutOcVJn71Y=
 			</data>
 		</dict>
 		<key>MLKitImageLabelingResources.bundle/mobile_ica_8bit_with_metadata.tflite</key>
@@ -972,7 +1198,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cdqsWpnwE7EDGNY2J6bw3erIz94F+xxZFFKzR3Z9mY0=
+			2Yyjrxzz+otsPOmbm6jMndet3+KZYS2hGkhTHLaWx2Y=
+			</data>
+		</dict>
+		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QBVXPliiH2mJTlMwIQsdBgbUC7sptwq97+XZdBcX3as=
+			</data>
+		</dict>
+		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+fBUoNnGdDPiKj8Ke1pqmpDdmTPHPoWJyVCYKSBnAik=
+			</data>
+		</dict>
+		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+6A/pSGleBkSEHYsrdqQ3nPftrLrIOBNY4ONDsyEm8E=
+			</data>
+		</dict>
+		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pwdPqpcdK7TCp9SReO2Kxifjy1s1GVHn3fkBeP8YdnU=
+			</data>
+		</dict>
+		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FgxUCow9UQIiHq+eUSBn1jS0NspnL+LtA+oXgOavPMU=
 			</data>
 		</dict>
 		<key>MLKitObjectDetectionCommonResources.bundle/mobile_object_localizer_3_1_anchors.pb</key>
@@ -1000,42 +1261,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yp77A4nkqITVYDMLvwwyP2K0PKoAPdhlCFqHGtFH3LI=
+			BAZu0SROzWsCWqn6PnEN8FAC3mvOdk7/GPmQHqp+xuU=
+			</data>
+		</dict>
+		<key>Modules/IDentitySDK_Swift.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZeOrqCNnlZP2WTzu9NrxerAx+ciyqtjsqYxPe7nGaFk=
+			</data>
+		</dict>
+		<key>Modules/IDentitySDK_Swift.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TF1ls6BZFC80ER3XbfS4i3RCbtNEIY/8s8i7EqGF0cE=
 			</data>
 		</dict>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JwCe/+Z8JSTmXAzxWiF/JvcA2XMTCBd320CZFq0YIIk=
+			esvAGa/GLbcUrGg+i855rT3Q8bPquFmz7W1DxI+2LGs=
 			</data>
 		</dict>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qxszEWwCWJIxGaYKp1cxqOygPMYZZWJlw5SNe50qp8U=
+			TF1ls6BZFC80ER3XbfS4i3RCbtNEIY/8s8i7EqGF0cE=
 			</data>
 		</dict>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			82QvRGrEgpNh2XDEjwwlN3ErlSvnaPA8Q1mDmPj/z20=
+			f/T9/nebqv8nwpXAxPp+7asM86yLG5fKJdQgiPzbyqQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MH+CNQdy6SjJC1HPZEY64F+CEMbZ7cwAuftOym1UDqw=
+			Pctlf9rLKmscWCYlX2okL6Sw9B4B/TQgddJI852i+Xk=
 			</data>
 		</dict>
-		<key>PassiveFaceTrainingModel_UNIQUE_KEY_ID_4183_20220825033033.tflite</key>
+		<key>PassiveFaceTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UvZz9F302hkeJC6DhO29zGlhyFq/kmDMcYmZPWNvoWw=
+			IMzIkGmT/bDovVcrV9xhU1vPvTVhHGkGpvvOKWUVLRo=
 			</data>
 		</dict>
 		<key>model.tflite</key>
