@@ -1,0 +1,1228 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "AudioToolbox",
+        "printedName": "AudioToolbox",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VideoIdResult",
+        "printedName": "VideoIdResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "videoURL",
+            "printedName": "videoURL",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18VideoCapture_Swift0A8IdResultV8videoURL10Foundation0G0Vvp",
+            "mangledName": "$s18VideoCapture_Swift0A8IdResultV8videoURL10Foundation0G0Vvp",
+            "moduleName": "VideoCapture_Swift",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV8videoURL10Foundation0G0Vvg",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV8videoURL10Foundation0G0Vvg",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV8videoURL10Foundation0G0Vvs",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV8videoURL10Foundation0G0Vvs",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV8videoURL10Foundation0G0VvM",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV8videoURL10Foundation0G0VvM",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "selfie",
+            "printedName": "selfie",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Selfie",
+                "printedName": "IDentitySDK_Swift.Selfie",
+                "usr": "s:17IDentitySDK_Swift6SelfieV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18VideoCapture_Swift0A8IdResultV6selfie012IDentitySDK_C06SelfieVvp",
+            "mangledName": "$s18VideoCapture_Swift0A8IdResultV6selfie012IDentitySDK_C06SelfieVvp",
+            "moduleName": "VideoCapture_Swift",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Selfie",
+                    "printedName": "IDentitySDK_Swift.Selfie",
+                    "usr": "s:17IDentitySDK_Swift6SelfieV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV6selfie012IDentitySDK_C06SelfieVvg",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV6selfie012IDentitySDK_C06SelfieVvg",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Selfie",
+                    "printedName": "IDentitySDK_Swift.Selfie",
+                    "usr": "s:17IDentitySDK_Swift6SelfieV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV6selfie012IDentitySDK_C06SelfieVvs",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV6selfie012IDentitySDK_C06SelfieVvs",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV6selfie012IDentitySDK_C06SelfieVvM",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV6selfie012IDentitySDK_C06SelfieVvM",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "idToSelfieMatch",
+            "printedName": "idToSelfieMatch",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18VideoCapture_Swift0A8IdResultV15idToSelfieMatchSbvp",
+            "mangledName": "$s18VideoCapture_Swift0A8IdResultV15idToSelfieMatchSbvp",
+            "moduleName": "VideoCapture_Swift",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV15idToSelfieMatchSbvg",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV15idToSelfieMatchSbvg",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV15idToSelfieMatchSbvs",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV15idToSelfieMatchSbvs",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV15idToSelfieMatchSbvM",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV15idToSelfieMatchSbvM",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "idToIdPhotoMatch",
+            "printedName": "idToIdPhotoMatch",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18VideoCapture_Swift0A8IdResultV04idToD10PhotoMatchSbvp",
+            "mangledName": "$s18VideoCapture_Swift0A8IdResultV04idToD10PhotoMatchSbvp",
+            "moduleName": "VideoCapture_Swift",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV04idToD10PhotoMatchSbvg",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV04idToD10PhotoMatchSbvg",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV04idToD10PhotoMatchSbvs",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV04idToD10PhotoMatchSbvs",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV04idToD10PhotoMatchSbvM",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV04idToD10PhotoMatchSbvM",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "idFrontDataMatch",
+            "printedName": "idFrontDataMatch",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18VideoCapture_Swift0A8IdResultV16idFrontDataMatchSbvp",
+            "mangledName": "$s18VideoCapture_Swift0A8IdResultV16idFrontDataMatchSbvp",
+            "moduleName": "VideoCapture_Swift",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV16idFrontDataMatchSbvg",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV16idFrontDataMatchSbvg",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV16idFrontDataMatchSbvs",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV16idFrontDataMatchSbvs",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV16idFrontDataMatchSbvM",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV16idFrontDataMatchSbvM",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "idBackDataMatch",
+            "printedName": "idBackDataMatch",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18VideoCapture_Swift0A8IdResultV15idBackDataMatchSbvp",
+            "mangledName": "$s18VideoCapture_Swift0A8IdResultV15idBackDataMatchSbvp",
+            "moduleName": "VideoCapture_Swift",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV15idBackDataMatchSbvg",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV15idBackDataMatchSbvg",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV15idBackDataMatchSbvs",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV15idBackDataMatchSbvs",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift0A8IdResultV15idBackDataMatchSbvM",
+                "mangledName": "$s18VideoCapture_Swift0A8IdResultV15idBackDataMatchSbvM",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:18VideoCapture_Swift0A8IdResultV",
+        "mangledName": "$s18VideoCapture_Swift0A8IdResultV",
+        "moduleName": "VideoCapture_Swift",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "Speech",
+        "printedName": "Speech",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "AudioToolbox",
+        "printedName": "AudioToolbox",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "TensorFlowLite",
+        "printedName": "TensorFlowLite",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FaceMatchResult",
+        "printedName": "FaceMatchResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "distance",
+            "printedName": "distance",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "usr": "s:Sf"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18VideoCapture_Swift15FaceMatchResultV8distanceSfvp",
+            "mangledName": "$s18VideoCapture_Swift15FaceMatchResultV8distanceSfvp",
+            "moduleName": "VideoCapture_Swift",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Float",
+                    "printedName": "Swift.Float",
+                    "usr": "s:Sf"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift15FaceMatchResultV8distanceSfvg",
+                "mangledName": "$s18VideoCapture_Swift15FaceMatchResultV8distanceSfvg",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Float",
+                    "printedName": "Swift.Float",
+                    "usr": "s:Sf"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift15FaceMatchResultV8distanceSfvs",
+                "mangledName": "$s18VideoCapture_Swift15FaceMatchResultV8distanceSfvs",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift15FaceMatchResultV8distanceSfvM",
+                "mangledName": "$s18VideoCapture_Swift15FaceMatchResultV8distanceSfvM",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isMatched",
+            "printedName": "isMatched",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18VideoCapture_Swift15FaceMatchResultV9isMatchedSbvp",
+            "mangledName": "$s18VideoCapture_Swift15FaceMatchResultV9isMatchedSbvp",
+            "moduleName": "VideoCapture_Swift",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift15FaceMatchResultV9isMatchedSbvg",
+                "mangledName": "$s18VideoCapture_Swift15FaceMatchResultV9isMatchedSbvg",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift15FaceMatchResultV9isMatchedSbvs",
+                "mangledName": "$s18VideoCapture_Swift15FaceMatchResultV9isMatchedSbvs",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18VideoCapture_Swift15FaceMatchResultV9isMatchedSbvM",
+                "mangledName": "$s18VideoCapture_Swift15FaceMatchResultV9isMatchedSbvM",
+                "moduleName": "VideoCapture_Swift",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(distance:isMatched:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FaceMatchResult",
+                "printedName": "VideoCapture_Swift.FaceMatchResult",
+                "usr": "s:18VideoCapture_Swift15FaceMatchResultV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "usr": "s:Sf"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:18VideoCapture_Swift15FaceMatchResultV8distance9isMatchedACSf_Sbtcfc",
+            "mangledName": "$s18VideoCapture_Swift15FaceMatchResultV8distance9isMatchedACSf_Sbtcfc",
+            "moduleName": "VideoCapture_Swift",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:18VideoCapture_Swift15FaceMatchResultV",
+        "mangledName": "$s18VideoCapture_Swift15FaceMatchResultV",
+        "moduleName": "VideoCapture_Swift",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FaceMatchDetector",
+        "printedName": "FaceMatchDetector",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FaceMatchDetector",
+                "printedName": "VideoCapture_Swift.FaceMatchDetector",
+                "usr": "s:18VideoCapture_Swift17FaceMatchDetectorC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:18VideoCapture_Swift17FaceMatchDetectorCACycfc",
+            "mangledName": "$s18VideoCapture_Swift17FaceMatchDetectorCACycfc",
+            "moduleName": "VideoCapture_Swift",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "faceMatch",
+            "printedName": "faceMatch(selfieImage:idFaceImage:faceMatchMax:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "VideoCapture_Swift.FaceMatchResult?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FaceMatchResult",
+                    "printedName": "VideoCapture_Swift.FaceMatchResult",
+                    "usr": "s:18VideoCapture_Swift15FaceMatchResultV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Float",
+                "printedName": "Swift.Float",
+                "usr": "s:Sf"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18VideoCapture_Swift17FaceMatchDetectorC04faceE011selfieImage02iddI00gE3MaxAA0dE6ResultVSgSo7UIImageC_ALSftF",
+            "mangledName": "$s18VideoCapture_Swift17FaceMatchDetectorC04faceE011selfieImage02iddI00gE3MaxAA0dE6ResultVSgSo7UIImageC_ALSftF",
+            "moduleName": "VideoCapture_Swift",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:18VideoCapture_Swift17FaceMatchDetectorC",
+        "mangledName": "$s18VideoCapture_Swift17FaceMatchDetectorC",
+        "moduleName": "VideoCapture_Swift",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "VideoCapture_Swift"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "IDentitySDK",
+        "printedName": "IDentitySDK",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "videoIDCapture",
+            "printedName": "videoIDCapture(from:front:back:text:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "DetectedData",
+                "printedName": "IDentitySDK_Swift.DetectedData",
+                "usr": "s:17IDentitySDK_Swift12DetectedDataV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "IDentitySDK_Swift.DetectedData?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DetectedData",
+                    "printedName": "IDentitySDK_Swift.DetectedData",
+                    "usr": "s:17IDentitySDK_Swift12DetectedDataV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<VideoCapture_Swift.VideoIdResult, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<VideoCapture_Swift.VideoIdResult, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VideoIdResult",
+                        "printedName": "VideoCapture_Swift.VideoIdResult",
+                        "usr": "s:18VideoCapture_Swift0A8IdResultV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17IDentitySDK_Swift0aB0C013VideoCapture_C0E14videoIDCapture4from5front4back4text10completionySo16UIViewControllerC_AA12DetectedDataVANSgSSys6ResultOyAD0d2IdQ0Vs5Error_pGctFZ",
+            "mangledName": "$s17IDentitySDK_Swift0aB0C013VideoCapture_C0E14videoIDCapture4from5front4back4text10completionySo16UIViewControllerC_AA12DetectedDataVANSgSSys6ResultOyAD0d2IdQ0Vs5Error_pGctFZ",
+            "moduleName": "VideoCapture_Swift",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:17IDentitySDK_Swift0aB0C",
+        "mangledName": "$s17IDentitySDK_Swift0aB0C",
+        "moduleName": "IDentitySDK_Swift",
+        "isExternal": true,
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VideoCapture",
+        "printedName": "VideoCapture",
+        "declKind": "Class",
+        "usr": "s:17IDentitySDK_Swift12VideoCaptureC",
+        "mangledName": "$s17IDentitySDK_Swift12VideoCaptureC",
+        "moduleName": "IDentitySDK_Swift",
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "CaptureSessionDelegate",
+            "printedName": "CaptureSessionDelegate",
+            "usr": "s:17IDentitySDK_Swift22CaptureSessionDelegateP",
+            "mangledName": "$s17IDentitySDK_Swift22CaptureSessionDelegateP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SelfieCaptureDelegate",
+            "printedName": "SelfieCaptureDelegate",
+            "usr": "s:17IDentitySDK_Swift21SelfieCaptureDelegateP",
+            "mangledName": "$s17IDentitySDK_Swift21SelfieCaptureDelegateP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "IDCaptureDelegate",
+            "printedName": "IDCaptureDelegate",
+            "usr": "s:17IDentitySDK_Swift17IDCaptureDelegateP",
+            "mangledName": "$s17IDentitySDK_Swift17IDCaptureDelegateP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Extensions\/IDentitySDK+VideoCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 495,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Extensions\/IDentitySDK+VideoCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 596,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Extensions\/IDentitySDK+VideoCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 680,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Extensions\/IDentitySDK+VideoCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 762,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 421,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 509,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1307,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1586,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "StringLiteral",
+      "offset": 940,
+      "length": 16,
+      "value": "\"facenet.tflite\""
+    },
+    {
+      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/AudioCaptureSession.swift",
+      "kind": "StringLiteral",
+      "offset": 439,
+      "length": 26,
+      "value": "\"AudioCaptureSessionQueue\""
+    }
+  ]
+}

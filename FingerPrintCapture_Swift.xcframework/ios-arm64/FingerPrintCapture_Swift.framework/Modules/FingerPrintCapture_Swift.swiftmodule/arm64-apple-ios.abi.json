@@ -1,0 +1,303 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FingerPrintCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "FingerPrintCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "SelfieCapture_Swift",
+        "printedName": "SelfieCapture_Swift",
+        "declKind": "Import",
+        "moduleName": "FingerPrintCapture_Swift"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FingerPrintResponseData",
+        "printedName": "FingerPrintResponseData",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "sendResponse",
+            "printedName": "sendResponse(fingerDictionary:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.NSMutableDictionary?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSMutableDictionary",
+                    "printedName": "Foundation.NSMutableDictionary",
+                    "usr": "c:objc(cs)NSMutableDictionary"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@FingerPrintCapture_Swift@objc(cs)FingerPrintResponseData(im)sendResponseWithFingerDictionary:",
+            "mangledName": "$s24FingerPrintCapture_Swift0aB12ResponseDataC04sendE016fingerDictionaryySo09NSMutableI0CSg_tF",
+            "moduleName": "FingerPrintCapture_Swift",
+            "objc_name": "sendResponseWithFingerDictionary:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FingerPrintResponseData",
+                "printedName": "FingerPrintCapture_Swift.FingerPrintResponseData",
+                "usr": "c:@M@FingerPrintCapture_Swift@objc(cs)FingerPrintResponseData"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@FingerPrintCapture_Swift@objc(cs)FingerPrintResponseData(im)init",
+            "mangledName": "$s24FingerPrintCapture_Swift0aB12ResponseDataCACycfc",
+            "moduleName": "FingerPrintCapture_Swift",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@FingerPrintCapture_Swift@objc(cs)FingerPrintResponseData",
+        "mangledName": "$s24FingerPrintCapture_Swift0aB12ResponseDataC",
+        "moduleName": "FingerPrintCapture_Swift",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "FingerPrintCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "FingerPrintCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "FingerPrintCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "FingerPrintCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "FingerPrintCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IDentitySDK_Swift",
+        "printedName": "IDentitySDK_Swift",
+        "declKind": "Import",
+        "moduleName": "FingerPrintCapture_Swift"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FingerPrintCapture_Swift",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "IDentitySDK",
+        "printedName": "IDentitySDK",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "fingerPrintCapture",
+            "printedName": "fingerPrintCapture(from:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Result<IDentitySDK_Swift.FingerPrintData, Swift.Error>) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Result",
+                    "printedName": "Swift.Result<IDentitySDK_Swift.FingerPrintData, Swift.Error>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FingerPrintData",
+                        "printedName": "IDentitySDK_Swift.FingerPrintData",
+                        "usr": "s:17IDentitySDK_Swift15FingerPrintDataV"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:s6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17IDentitySDK_Swift0aB0C019FingerPrintCapture_C0E06fingereF04from10completionySo16UIViewControllerC_ys6ResultOyAA0dE4DataVs5Error_pGctFZ",
+            "mangledName": "$s17IDentitySDK_Swift0aB0C019FingerPrintCapture_C0E06fingereF04from10completionySo16UIViewControllerC_ys6ResultOyAA0dE4DataVs5Error_pGctFZ",
+            "moduleName": "FingerPrintCapture_Swift",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:17IDentitySDK_Swift0aB0C",
+        "mangledName": "$s17IDentitySDK_Swift0aB0C",
+        "moduleName": "IDentitySDK_Swift",
+        "isExternal": true,
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

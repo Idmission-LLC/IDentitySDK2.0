@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "IDCapture"
-  spec.version      = "9.3.10.2.26"
+  spec.version      = "9.4.8.2.1"
   spec.summary      = "IDCapture lets user add IDCaptureSDK in their project"
   spec.description  = <<-DESC 
                     IDCapture helps user to add IDCaptureSDK in their project.

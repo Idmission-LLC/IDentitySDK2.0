@@ -6,15 +6,15 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		zBXwuzfKGnljSpcv+fydHcrk7nw=
+		/OKo6kjU62AEYPVBdJZ+jHGfqQk=
 		</data>
-		<key>ClassifierTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
+		<key>ClassifierTrainingModel_UNIQUE_KEY_ID_7203_20230130193502.tflite</key>
 		<data>
-		oJ5rt5l63b931zg6cPl3bBS1QGc=
+		vi+tKYl1l1993KGh9yTaa5sqZLs=
 		</data>
-		<key>DocDetectionTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
+		<key>DocDetectionTrainingModel_UNIQUE_KEY_ID_7203_20230130193502.tflite</key>
 		<data>
-		9RAcZqOhRdZqo6hz0YzVDcanzSo=
+		hZ/ShRl+QfsYF2VQrTPMdGKLCAQ=
 		</data>
 		<key>DocumentCapture.storyboardc/1Pk-oV-bqy-view-n8U-9k-eXr.nib/objects-14.0+.nib</key>
 		<data>
@@ -100,9 +100,9 @@
 		<data>
 		jrptV/mckUR0khENg6fgU5Qymfc=
 		</data>
-		<key>FaceMaskTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
+		<key>FaceMaskTrainingModel_UNIQUE_KEY_ID_7203_20230130193502.tflite</key>
 		<data>
-		uKFdcwQhUhlcllZDAKgSNfBEfv0=
+		/1PIkjrVo0kBRf7ZqU19OXY6xmQ=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		lKR9quwBpf5NAbBdEcuu9V03vYk=
+		ZM5bh9zDAX4Kb5xy5Z4NMVtRlPo=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -131,26 +131,6 @@
 		<key>GoogleMVFaceDetectorResources.bundle/MFT_fssd_fastgray.pb</key>
 		<data>
 		DP+qJf0czliL6znGLVx90ASNzCY=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		HsfSUI4Rl1XBK7ATqlTWmEIioZE=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		OnX22wWFKRSOFN1+obRynMCeyXM=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		qhPfK+/8lq+0cDK0onVwOBBl/dY=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		MhB3UG8viKa+dwO2iK7bMpceck0=
-		</data>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
 		<data>
@@ -182,7 +162,7 @@
 		</data>
 		<key>Headers/IDentitySDK_Swift-Swift.h</key>
 		<data>
-		3YlF+fOfUgpRfZvF1Z3yq0CeHqA=
+		url6Loa1npbozeu8qtj+AOdER0g=
 		</data>
 		<key>Headers/IDentitySDK_Swift.h</key>
 		<data>
@@ -320,37 +300,17 @@
 		<data>
 		kaJR25wXLG/fzOUUQZTZ4TIeR+k=
 		</data>
-		<key>IdTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
+		<key>IdTrainingModel_UNIQUE_KEY_ID_7203_20230130193502.tflite</key>
 		<data>
-		FfplTZPAsWZieQ6L9OEAyiQOhmU=
+		ljj7m/0JpazUnnZ8XdQ3rktTwLI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UCUW4l5vGqyLl3rnUGq/Oadpu7o=
+		cOYNB/CMEe4+0s46YBntLJWt6XE=
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		J1Xwh5VUjhfpGv2nVgbjCnQgtkQ=
-		</data>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		Sczvkm2gFHTcP19IxC/JH11EFqs=
-		</data>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		OnX22wWFKRSOFN1+obRynMCeyXM=
-		</data>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		agpRVFyaACHGNVur4KKfKynadrQ=
-		</data>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		wAcvRDpr4WwSmhX9K6fHkl08qbg=
-		</data>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		YMM+bezzZQy/VpbDj+F4hasnb7E=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -386,27 +346,7 @@
 		</data>
 		<key>MLKitImageLabelingResources.bundle/Info.plist</key>
 		<data>
-		P3AAkqhHeTTGZfBhjO1/oMHLfjs=
-		</data>
-		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		QxYudzU1KYVbFJirIKJ8FeetyQ8=
-		</data>
-		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		OnX22wWFKRSOFN1+obRynMCeyXM=
-		</data>
-		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		jXw7LnTB8tChzialT+Li+cTRcBo=
-		</data>
-		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		sdKDbo3JaGtSPpx9uvLxubOXuWU=
-		</data>
-		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		J1g42M1/xt6W8DJ84kjQtxuwZF4=
 		</data>
 		<key>MLKitImageLabelingResources.bundle/mobile_ica_8bit_with_metadata.tflite</key>
 		<data>
@@ -414,27 +354,7 @@
 		</data>
 		<key>MLKitObjectDetectionCommonResources.bundle/Info.plist</key>
 		<data>
-		6oEoTFLA+t7Yj3UvEsCV691eop8=
-		</data>
-		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		XJ6ISk0kJnu9LG8hCX8GPCIAOfw=
-		</data>
-		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		OnX22wWFKRSOFN1+obRynMCeyXM=
-		</data>
-		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		o3N5rjmucN+KffRUjVMHnMTWGzA=
-		</data>
-		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		v/scRL/u1ILQbjj+DIQdJw7q/zM=
-		</data>
-		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		Kdye+CEuSdgxkxiUAalbEuI+YZc=
 		</data>
 		<key>MLKitObjectDetectionCommonResources.bundle/mobile_object_localizer_3_1_anchors.pb</key>
 		<data>
@@ -450,35 +370,39 @@
 		</data>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		eYPKVyRkC/8x6NJFbnphGNKChcY=
+		XIwp6mvmaJ09nyzDMtwmh3xIQwI=
 		</data>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		idRU5QoZGNeQqiriar+mbuPPjxs=
+		ZZ9pg1PSHdOEpC1i0GxAqlv2dBM=
 		</data>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		U26SmSnzDHPzL/E1AQ7UYej/+oI=
+		3N7LcnLnouxKinWwYMcl7yERsME=
 		</data>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		/LmECw53L0LJvEiSab+ZlrpHHrg=
+		VkU7SMjBoXaPqx2YNbqCBDg8Iac=
 		</data>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		U26SmSnzDHPzL/E1AQ7UYej/+oI=
+		3N7LcnLnouxKinWwYMcl7yERsME=
 		</data>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		u5d62hYqqCcnopRir0mNcYiiRtM=
+		C1PetR+wVrMY9uGipkqK1sN8fwM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		f2s2bxKqjoiAeIrzzZxb4EN48vY=
 		</data>
-		<key>PassiveFaceTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
+		<key>PassiveFaceTrainingModel_UNIQUE_KEY_ID_7203_20230130193502.tflite</key>
 		<data>
-		UdzRNZH9aikeZcl8rO2FCWROVrQ=
+		2HGJTHT+E6BR7fFdXDhqAFuPhns=
+		</data>
+		<key>fingerDetect.tflite</key>
+		<data>
+		kWU7ZPyLYWKOFLnqUYvUK3j6emI=
 		</data>
 		<key>model.tflite</key>
 		<data>
@@ -491,21 +415,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mLH+s63Lx+eDNxjiaatjUAYR/tg0WJNK7pmsQfXvbbw=
+			fC1+gdXHlf8+dcc+wPcHeqdWDKdMk+l98XPSwnWE+UE=
 			</data>
 		</dict>
-		<key>ClassifierTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
+		<key>ClassifierTrainingModel_UNIQUE_KEY_ID_7203_20230130193502.tflite</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			61ug+rj38KuAlmQcQoWL4I/AgBnPhniDS0MwWfKvyn0=
+			SL7kKYyY8l1jrxFBi2UbQPj4bF4fKLkHzpKRnXlPTic=
 			</data>
 		</dict>
-		<key>DocDetectionTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
+		<key>DocDetectionTrainingModel_UNIQUE_KEY_ID_7203_20230130193502.tflite</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CruEXgl/SaazCDxR0CsV6yvk0Mh3cYW7Dz2wh9VWRks=
+			3879ovLsggV/Lc2sTkzQo16K2JMYl2d4xrEq/tyeMwo=
 			</data>
 		</dict>
 		<key>DocumentCapture.storyboardc/1Pk-oV-bqy-view-n8U-9k-eXr.nib/objects-14.0+.nib</key>
@@ -655,11 +579,11 @@
 			/fg6yv2qHud3+kEmlnDvQNJZPLtiliXi0u2z5e2VmpM=
 			</data>
 		</dict>
-		<key>FaceMaskTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
+		<key>FaceMaskTrainingModel_UNIQUE_KEY_ID_7203_20230130193502.tflite</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CZm/1tQSfhHlnEUamXZpavrOmDZ3LyTcr5Hub5U42II=
+			FPm7nPyf1rrNobXyR80kdVLqaTnOgNMuZ2WN4axfcW8=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -687,7 +611,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/epQdnpMfQEn2m7MViicu9MmLGDf3Pj8+EDFWBleBjM=
+			1QaJ9IRSmup1nTPWm538qv4OhJa+Yb9Fe/Mh/WLCJk0=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -709,41 +633,6 @@
 			<key>hash2</key>
 			<data>
 			CUNCXfGzUODFinvmaL4flC6sM4wZjhpPFoWco+Eif0U=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qsE8KQgQEDjB801UjXrOwqG0fGKvO68i2q9bhBKHzjY=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bnvftFDIzqUCWMjwobS0KtT77DKq3lP9CnknIPHcfCY=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2gju7+eYFs+Uf0FIDqLbFLpDnmzKCESbbVyK2OSSbAk=
-			</data>
-		</dict>
-		<key>GoogleMVFaceDetectorResources.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/blazeface.tfl</key>
@@ -799,7 +688,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			itKI5wW1CFyrqWY5yB9FlPZgR1BggSnQSK3t4eO/sVQ=
+			Iq3A3BHdRpIH+Q+JGnj0h8t88t+RiIDw6rbjmvXYDRk=
 			</data>
 		</dict>
 		<key>Headers/IDentitySDK_Swift.h</key>
@@ -1040,53 +929,18 @@
 			aYNprLbIgDX45Q7oHJ1IwMY9px2AfQV2tO0IZF2Ssfc=
 			</data>
 		</dict>
-		<key>IdTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
+		<key>IdTrainingModel_UNIQUE_KEY_ID_7203_20230130193502.tflite</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p3Xai3ATyaowU+xHvfPH44VIq8RCi8NmLu3Ush+Ycr4=
+			66wl/jkjPBUa8J+qX54Uo465nDQXosFynW1Gk6/d+Cs=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U5MgbOj+FQrOsBQSUXxh5ZkrHqeq4qBjN5M0j0FZvaE=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			r3JovoS7XUmbzlvRx7x0xd598++Bz5WwqkWdB496kSs=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yrwbYP2ouHJrax5dwqk86Kzr7Gx7JxMunfJ0owlbZY4=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			invF7KpCHCac7fmWM4LSKwZVfsuUXzSgywbk4dGvZ3c=
-			</data>
-		</dict>
-		<key>LatinOCRResources.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			itFJ+db4KD5L4HdWOIf36w/mgR8hYAyCRY82Qh2f0KU=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -1149,42 +1003,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GlnRX8lVXa/WhyW90lJg6Qk3zeEawqeHPdby4KsxSjI=
-			</data>
-		</dict>
-		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HZBnmvX4Z/GqIVuNSbBCJaqg2xt1kjGuZrW6cXtzzGc=
-			</data>
-		</dict>
-		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
-			</data>
-		</dict>
-		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HxoQNyP5w1s0Wqar0vIvrpDAYd1FgqtUxM3IN+khAf4=
-			</data>
-		</dict>
-		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			habA7l1TIj65/Ea8TSGDvuFb75GE/gIOoYkchvVdaBo=
-			</data>
-		</dict>
-		<key>MLKitImageLabelingResources.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			g2/+CkxBbXn+E5AhjG3GqIt10wgH0yYwSpRJg9CoNf8=
 			</data>
 		</dict>
 		<key>MLKitImageLabelingResources.bundle/mobile_ica_8bit_with_metadata.tflite</key>
@@ -1198,42 +1017,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q2LPNlaerx92S1Elq3WT5GuaR4f7QE8a28aF6r+L6QM=
-			</data>
-		</dict>
-		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1z2wljDmckgtAhNrfyGWGIAXc5Sf1Ue9OadXuwwKKPM=
-			</data>
-		</dict>
-		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
-			</data>
-		</dict>
-		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dx/PP4XoCwRDeye0480goFo06kgdu4E3TMOCsDGDUVE=
-			</data>
-		</dict>
-		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pwdPqpcdK7TCp9SReO2Kxifjy1s1GVHn3fkBeP8YdnU=
-			</data>
-		</dict>
-		<key>MLKitObjectDetectionCommonResources.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			lkYktHZhUxuUfo32/w0dRVIO6FfELgpocuy1Or7huzc=
 			</data>
 		</dict>
 		<key>MLKitObjectDetectionCommonResources.bundle/mobile_object_localizer_3_1_anchors.pb</key>
@@ -1261,42 +1045,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hOuYgNClgVnDqQS542L3SNaUDOLUuoU9irtuQPaIFSU=
+			rKuoh4x5NKtT4GFuR4nWB4eDcLRY2htADufMcDJAW+8=
 			</data>
 		</dict>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZeOrqCNnlZP2WTzu9NrxerAx+ciyqtjsqYxPe7nGaFk=
+			VsEX5Ix9Tv9sWJke4MSrnb7IXzC7OSJ0y1dVr72b25c=
 			</data>
 		</dict>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oCiQjvOk3qn88q8VdkykJqpxNF4sHBweR3rAbQ2uYpE=
+			93+AICbDWS1fQySy8xjlLUiDa+KyPjO5cN0iBGjZTqc=
 			</data>
 		</dict>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9mxwjp/dtX5nVvaqHI+puBbDF5c93Ksxn4IMP/+ZMWU=
+			qClPtsPpPC3RmDmFe5axtgGzWGFT9rriIZ/QOE40wQc=
 			</data>
 		</dict>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oCiQjvOk3qn88q8VdkykJqpxNF4sHBweR3rAbQ2uYpE=
+			93+AICbDWS1fQySy8xjlLUiDa+KyPjO5cN0iBGjZTqc=
 			</data>
 		</dict>
 		<key>Modules/IDentitySDK_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W2xVuskl68H8gk6aySCWf39X6enmZuyTElg98ufrLv8=
+			2r4y2ZhlPisHHtxGJt6DWGU67GtLAfdbbnxdB+z7PVw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1306,11 +1090,18 @@
 			Pctlf9rLKmscWCYlX2okL6Sw9B4B/TQgddJI852i+Xk=
 			</data>
 		</dict>
-		<key>PassiveFaceTrainingModel_UNIQUE_KEY_ID_6861_20221118135636.tflite</key>
+		<key>PassiveFaceTrainingModel_UNIQUE_KEY_ID_7203_20230130193502.tflite</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IMzIkGmT/bDovVcrV9xhU1vPvTVhHGkGpvvOKWUVLRo=
+			f/YMcHbh3dmu1UhEbGmyiY2+OtRjKc/qeiyXijdPe1E=
+			</data>
+		</dict>
+		<key>fingerDetect.tflite</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HFaODKKe7qZ6hv0THwVDGik2BppoOXKmjWspVeN7nYc=
 			</data>
 		</dict>
 		<key>model.tflite</key>

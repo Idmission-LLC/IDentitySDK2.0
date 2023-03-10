@@ -1,0 +1,41 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
+// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SignatureCapture_Swift
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Foundation
+import IDentitySDK_Swift
+import SelfieCapture_Swift
+@_exported import SignatureCapture_Swift
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+public typealias SignatureCaptureCompletion = (_ result: Swift.Result<IDentitySDK_Swift.SignatureData, Swift.Error>) -> Swift.Void
+extension IDentitySDK_Swift.IDentitySDK {
+  public class func signatureCapture(from presenter: UIKit.UIViewController, completion: @escaping SignatureCapture_Swift.SignatureCaptureCompletion)
+}
+@_inheritsConvenienceInitializers @objc @_Concurrency.MainActor(unsafe) open class SignatureView : UIKit.UIView {
+  @objc @_Concurrency.MainActor(unsafe) public var strokeWidth: CoreFoundation.CGFloat
+  @objc @_Concurrency.MainActor(unsafe) public var strokeColor: UIKit.UIColor
+  @objc @_Concurrency.MainActor(unsafe) public var strokeOpacity: CoreFoundation.CGFloat
+  @objc @_Concurrency.MainActor(unsafe) public var path: UIKit.UIBezierPath
+  @objc @_Concurrency.MainActor(unsafe) public var image: UIKit.UIImage?
+  @objc @_Concurrency.MainActor(unsafe) public var pts: [CoreFoundation.CGPoint]
+  @objc @_Concurrency.MainActor(unsafe) public var ctr: Swift.Int
+  @objc @_Concurrency.MainActor(unsafe) public var Cordinates: [CoreFoundation.CGPoint]
+  @objc @_Concurrency.MainActor(unsafe) public var CordinatesTimeStamp: [Swift.String]
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func draw(_ rect: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func touchesBegan(_ touches: Swift.Set<UIKit.UITouch>, with event: UIKit.UIEvent?)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func touchesMoved(_ touches: Swift.Set<UIKit.UITouch>, with event: UIKit.UIEvent?)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func touchesEnded(_ touches: Swift.Set<UIKit.UITouch>, with event: UIKit.UIEvent?)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func touchesCancelled(_ touches: Swift.Set<UIKit.UITouch>, with event: UIKit.UIEvent?)
+  @objc @_Concurrency.MainActor(unsafe) public func erase()
+  @objc @_Concurrency.MainActor(unsafe) public func get_Cordinate_Array() -> [CoreFoundation.CGPoint]?
+  @objc @_Concurrency.MainActor(unsafe) public func get_XCordinate_Array() -> [CoreFoundation.CGFloat]
+  @objc @_Concurrency.MainActor(unsafe) public func get_YCordinate_Array() -> [CoreFoundation.CGFloat]
+  @objc @_Concurrency.MainActor(unsafe) public func get_TimeStamp_Array() -> [Swift.String]
+  @objc @_Concurrency.MainActor(unsafe) public func signatureImage() -> UIKit.UIImage
+  @objc deinit
+}
