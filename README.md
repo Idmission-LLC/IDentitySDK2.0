@@ -93,16 +93,23 @@ As per SDK flavour which you choose to integrate, add the following pod in your 
 - **IDentity 2.0**  *pod*. 
 ```swift
 pod 'IDentitySDK2.0'
+pod 'FingerPrintCapture' (Optional) : If developer required this feature they can use this framework.
+pod 'SignatureCapture' (Optional) : If developer required this feature they can use this framework.
+pod 'VideoCapture' (Optional) : If developer required this feature they can use this framework.
 ```
 
 - **IDentityMedium 2.0**  *pod*
 ```swift
 pod 'IDentityMediumSDK2.0'
+pod 'FingerPrintCaptureMedium' (Optional) : If developer required this feature they can use this framework.
+pod 'SignatureCaptureMedium' (Optional) : If developer required this feature they can use this framework.
 ```
 
 - **IDentityLite 2.0**  *pod*.
 ```swift
 pod 'IDentityLiteSDK2.0'
+pod 'FingerPrintCaptureLite' (Optional) : If developer required this feature they can use this framework.
+pod 'SignatureCaptureLite' (Optional) : If developer required this feature they can use this framework.
 ```
 
 ##### **Add SDK manually :** 
@@ -1154,6 +1161,25 @@ FingerPrintCapture.strings.holdSteady = "Hold Steady"
 FingerPrintCapture.strings.capturingDetail = "Capturing Details"
 FingerPrintCapture.strings.fingerTooClose = "Too Close"
 FingerPrintCapture.strings.fingerTooFar = "Too Far"
+
+```
+
+-   Before starting either Capture flow, optionally adjust the following <a href="./Classes/VideoCapture.html">VideoCapture</a> static properties:
+
+```swift
+//VideoCapture Customization
+VideoCapture.options.idToSelfieMatchThreshold = 0.9
+VideoCapture.options.idToIdPhotoMatchThreshold = 0.9
+VideoCapture.options.frontLevenshteinThreshold = 0.25
+VideoCapture.options.backLevenshteinThreshold = 0.45
+VideoCapture.options.readTextCountdownSeconds = 10
+VideoCapture.options.readTextWordMatchThreshold = 0.5
+VideoCapture.options.isDebugMode = false
+
+//VideoCapture Screen UI Customization
+VideoCapture.strings.faceDoesNotMatch = "Face does not match"
+VideoCapture.strings.idDoesNotMatch = "ID does not match"
+VideoCapture.strings.doneButton = "Done"
 
 ```
 
