@@ -112,8 +112,8 @@
             "moduleName": "SignatureCapture_Swift",
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "AccessControl",
               "ObjC"
             ],
@@ -206,8 +206,8 @@
             "moduleName": "SignatureCapture_Swift",
             "declAttributes": [
               "HasInitialValue",
-              "Custom",
               "HasStorage",
+              "Custom",
               "AccessControl",
               "ObjC"
             ],
@@ -1701,32 +1701,445 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/Extensions\/IDentitySDK+SignatureCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 784,
+      "length": 18,
+      "value": "\"SignatureCapture\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/Extensions\/IDentitySDK+SignatureCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1665,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5268,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5360,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5374,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5467,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5481,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5573,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5587,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5676,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5690,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6674,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6944,
+      "length": 13,
+      "value": "\"Please Sign\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 6968,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 7055,
+      "length": 4,
+      "value": "\"OK\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7145,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 7326,
+      "length": 4,
+      "value": "0.50"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7446,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 7589,
+      "length": 15,
+      "value": "\"clickX_simple\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 7670,
+      "length": 15,
+      "value": "\"clickY_simple\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 7751,
+      "length": 13,
+      "value": "\"time_simple\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 7829,
+      "length": 13,
+      "value": "\"fileContent\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8587,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9028,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
       "kind": "FloatLiteral",
       "offset": 501,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
       "kind": "FloatLiteral",
       "offset": 602,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
       "kind": "IntegerLiteral",
       "offset": 778,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
       "kind": "IntegerLiteral",
       "offset": 813,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1029,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1238,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1605,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1715,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "StringLiteral",
+      "offset": 1825,
+      "length": 17,
+      "value": "\"touchesBegan : \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2061,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2107,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2128,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2149,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2160,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2166,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2179,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2190,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "FloatLiteral",
+      "offset": 2196,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2410,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2448,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2471,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2494,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2633,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2642,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2661,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2670,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2691,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "StringLiteral",
+      "offset": 2804,
+      "length": 17,
+      "value": "\"touchesMoved : \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3034,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3771,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3777,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4502,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4684,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "Array",
+      "offset": 4763,
+      "length": 5,
+      "value": "[0.0]"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4881,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "Array",
+      "offset": 4960,
+      "length": 5,
+      "value": "[0.0]"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5085,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "Array",
+      "offset": 5164,
+      "length": 4,
+      "value": "[\"\"]"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SignatureCapture\/SignatureView.swift",
+      "kind": "StringLiteral",
+      "offset": 5342,
+      "length": 2,
+      "value": "\"\""
     }
   ]
 }

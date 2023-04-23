@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		s2XSuMpXVpvRiz2U8wk5n43t3pk=
+		WfxVkZVaWzRWIO8hOvz2HjCS9VY=
 		</data>
 		<key>Headers/VideoCapture_Swift-Swift.h</key>
 		<data>
-		DrkX/jJ3lk0lCuSGq0LAATswaqo=
+		Jrgdg5ZCafJ0CZvDGWwDjGNMzig=
 		</data>
 		<key>Headers/VideoCapture_Swift.h</key>
 		<data>
@@ -18,31 +18,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		krJjYcaIfBJiJt/wgArP0hb1oxo=
+		jEh5npB5/fyGe6NThR1IwLOAXec=
 		</data>
 		<key>Modules/VideoCapture_Swift.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		RCWC9rorrM+s91yRFgA/S6c3O+4=
+		THxrugwCMqKXkZFHsCtbBJLyulo=
 		</data>
 		<key>Modules/VideoCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		TCLxJeEnFU48GiEdkxMgRVDP78I=
+		hX7icumRjk0ZcwWnOkua8UTbVaQ=
 		</data>
 		<key>Modules/VideoCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		s/U6XU4CPfG6aDCGTDKV05O65V8=
+		bc0C7q/NDDh7/1y91l9zNRXwFA4=
 		</data>
 		<key>Modules/VideoCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		WOFJfORgxGut82iYmEwMwFEWY6E=
+		qnST9pv+WrsPhllEVPat1wwI0F0=
 		</data>
 		<key>Modules/VideoCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		s/U6XU4CPfG6aDCGTDKV05O65V8=
+		bc0C7q/NDDh7/1y91l9zNRXwFA4=
 		</data>
 		<key>Modules/VideoCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		e9KPC+yCPbgGLr9Nf/WCznp95HU=
+		9f3Pyb5qFHx/vehyqHxkd0An7gQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>VideoCapture.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
 		<data>
-		Qt9uS9eaoQmdMhg6XSty8fcHdY0=
+		qKxvp+31LFsVoHO4AA9gPpSUxAU=
 		</data>
 		<key>VideoCapture.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
 		<data>
-		voTlGDx6ElgXv19xSJKijps/1Vo=
+		cqYUbgkqQfWyG4TiYkbRuATt8KY=
 		</data>
 		<key>facenet.tflite</key>
 		<data>
@@ -95,14 +95,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X7MzDDBFPQUeuDq/y8eoks98I2Xg7gUTqXFP5ggYiKM=
+			f/rylsVR80AZ5jROpvNJq+vtboVF3I0sMwrE+FxiygU=
 			</data>
 		</dict>
 		<key>Headers/VideoCapture_Swift-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			E89cF18PWo0SKJNthWSEgic8Kyde0BPhx2rmxW6o3kI=
+			lb6kTkzHOJ8EDpWgiMp89y/NPhgvLjqYWX/8z4X5cac=
 			</data>
 		</dict>
 		<key>Headers/VideoCapture_Swift.h</key>
@@ -116,42 +116,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jAehgVeTnSU/IWus9Wg5nr1qozue2zQy8giHrCWr8iU=
+			Bn4nI02aFTS3j1RDnD0czlzQkuNALgMAjc9O+Mv8mjI=
 			</data>
 		</dict>
 		<key>Modules/VideoCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+cIh8fspt6AyHhHLef2gy77HFZK5t71AByaP5MmH50M=
+			Uq/7eEy4uxywd40jhL4M+b7p8Xb/eP9AqdVRhRygMn8=
 			</data>
 		</dict>
 		<key>Modules/VideoCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u0SAFGgfzTS44ScCaTn6gM1iGjMJfSziAlT23qHbKFQ=
+			wwc+NsjKeO60eYL2+EtFnqeOmUoft+bIS0IfZW5NOjU=
 			</data>
 		</dict>
 		<key>Modules/VideoCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			48WycuceQFP39Fzk1SEO1GYLtomRi5AtF4OV755p1cY=
+			qba48/2o2QMJ6ZSCieXyiHQ2Hxn6Gt+vhOfHreFyNxo=
 			</data>
 		</dict>
 		<key>Modules/VideoCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u0SAFGgfzTS44ScCaTn6gM1iGjMJfSziAlT23qHbKFQ=
+			wwc+NsjKeO60eYL2+EtFnqeOmUoft+bIS0IfZW5NOjU=
 			</data>
 		</dict>
 		<key>Modules/VideoCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zeaVWSwylZfjhl6yUOByBF0aU6WYx5BgWk+CYfAmI/M=
+			6xV4i1GfX9NPwKbHaYFR0lkTSlMfMsbXrybRLi4vRmU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -214,14 +214,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rlz+KhZR20y7Mlzfo6Fs9qu6aqJfx3Vgknz+rXfnGwM=
+			OwBio3qaCOLpQj8oFNJXuEAr9VnW9iCAIgfEqGeLIFo=
 			</data>
 		</dict>
 		<key>VideoCapture.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9AzKBy0rtYKJP+544E81dGFhYIvlIqMyCKCUUPsszC4=
+			1GClbOSl2IEuOCU5FuGxwqtEh21E9/CG9XoRv8AAg4s=
 			</data>
 		</dict>
 		<key>facenet.tflite</key>

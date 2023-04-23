@@ -299,5 +299,195 @@
     ],
     "json_format_version": 8
   },
-  "ConstValues": []
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 795,
+      "length": 20,
+      "value": "\"FingerPrintCapture\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1865,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2002,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4777,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4914,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 5404,
+      "length": 10,
+      "value": "\"LIFINGER\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 5673,
+      "length": 10,
+      "value": "\"LMFINGER\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 5944,
+      "length": 10,
+      "value": "\"LRFINGER\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 6209,
+      "length": 10,
+      "value": "\"LLFINGER\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 6512,
+      "length": 10,
+      "value": "\"RIFINGER\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 6786,
+      "length": 10,
+      "value": "\"RMFINGER\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 7062,
+      "length": 10,
+      "value": "\"RRFINGER\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 7332,
+      "length": 10,
+      "value": "\"RLFINGER\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 7593,
+      "length": 11,
+      "value": "\"isSuccess\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 7620,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7668,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 7684,
+      "length": 5,
+      "value": "\"YES\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 7772,
+      "length": 21,
+      "value": "\"fingerDetect.tflite\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 7809,
+      "length": 14,
+      "value": "\"fingerDetect\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/IDentitySDK+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 8773,
+      "length": 4,
+      "value": "\"NO\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/FingerPrintCaptureInstructionsViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 860,
+      "length": 21,
+      "value": "\"LeftHand_Identifier\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/FingerPrintCaptureInstructionsViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 932,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/FingerPrintCaptureInstructionsViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1005,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/FingerPrintCaptureInstructionsViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5280,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/UIImage+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 403,
+      "length": 18,
+      "value": "\"fp_instruction_7\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/UIImage+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 630,
+      "length": 7,
+      "value": "\"handL\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/FingerPrintCapture\/Extensions\/UIImage+FingerPrintCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 848,
+      "length": 7,
+      "value": "\"handR\""
+    }
+  ]
 }

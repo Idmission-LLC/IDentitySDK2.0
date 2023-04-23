@@ -934,81 +934,1110 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/UIImage+IDCapture.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/UIImage+IDCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 364,
+      "length": 27,
+      "value": "\"overlay_portrait_id_front\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/UIImage+IDCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 545,
+      "length": 27,
+      "value": "\"overlay_landscape_id_back\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/UIImage+IDCapture.swift",
       "kind": "StringLiteral",
       "offset": 696,
       "length": 27,
       "value": "\"id_capture_instruction_pp\""
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/UIImage+IDCapture.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/UIImage+IDCapture.swift",
       "kind": "StringLiteral",
       "offset": 754,
       "length": 27,
       "value": "\"id_capture_instruction_dl\""
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/UIImage+IDCapture.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/UIImage+IDCapture.swift",
       "kind": "StringLiteral",
       "offset": 696,
       "length": 27,
       "value": "\"id_capture_instruction_pp\""
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/UIImage+IDCapture.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/UIImage+IDCapture.swift",
       "kind": "StringLiteral",
       "offset": 754,
       "length": 27,
       "value": "\"id_capture_instruction_dl\""
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectStateTableViewController.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectCountryTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1091,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectCountryTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1151,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectCountryTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1205,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectCountryTableViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1250,
+      "length": 18,
+      "value": "\"Search Countries\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectCountryTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1371,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectCountryTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1880,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectCountryTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1924,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectCountryTableViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2366,
+      "length": 6,
+      "value": "\"Cell\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectCountryTableViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3189,
+      "length": 4,
+      "value": "\"DL\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectCountryTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3340,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectCountryTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3825,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectCountryTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3990,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectStateTableViewController.swift",
       "kind": "Array",
       "offset": 350,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectStateTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1171,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectStateTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1231,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectStateTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1285,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectStateTableViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1330,
+      "length": 15,
+      "value": "\"Search States\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectStateTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1448,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectStateTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1870,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectStateTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1914,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectStateTableViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2353,
+      "length": 6,
+      "value": "\"Cell\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectStateTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3000,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectIdTypeTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 579,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectIdTypeTableViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1087,
+      "length": 6,
+      "value": "\"Cell\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Table View Controllers\/SelectIdTypeTableViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1725,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureInstructionsViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2588,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureInstructionsViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3807,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/IDentitySDK+IDCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 1937,
+      "length": 11,
+      "value": "\"IDCapture\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/IDentitySDK+IDCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5950,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/IDentitySDK+IDCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6087,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/IDentitySDK+IDCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6611,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/Extensions\/IDentitySDK+IDCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6748,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1180,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2163,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2183,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2329,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2366,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2684,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3757,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4331,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "FloatLiteral",
+      "offset": 4387,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4481,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "FloatLiteral",
+      "offset": 4553,
+      "length": 4,
+      "value": "-2.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4811,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4842,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4849,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4952,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4983,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4990,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5304,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5310,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5415,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5421,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5676,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7686,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
       "kind": "FloatLiteral",
       "offset": 7907,
       "length": 3,
       "value": "0.8"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
       "kind": "FloatLiteral",
       "offset": 8011,
       "length": 5,
       "value": "127.5"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDentitySDK\/Extensions\/TF\/TFLiteExtension.swift",
       "kind": "FloatLiteral",
       "offset": 8050,
       "length": 5,
       "value": "127.5"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/RetryViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 642,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/RetryViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 708,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/RetryViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2063,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1969,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
       "kind": "Array",
       "offset": 2274,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
       "kind": "Array",
       "offset": 2331,
       "length": 2,
       "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3921,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3966,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4077,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4136,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4289,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4374,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4412,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4519,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4560,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4602,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 5421,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 5702,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6775,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7959,
+      "length": 1,
+      "value": "9"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7970,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8057,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8062,
+      "length": 1,
+      "value": "9"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9386,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10016,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10062,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10158,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10993,
+      "length": 11,
+      "value": "\"debugData\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11174,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 11337,
+      "length": 117,
+      "value": "\"Photocopy Score: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 11379,
+      "length": 1,
+      "value": "\"\nRealness Score: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 11416,
+      "length": 1,
+      "value": "\"\nScreen Score: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 11453,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 11560,
+      "length": 14,
+      "value": "\"Top Matches:\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 11670,
+      "length": 44,
+      "value": "\"\n - \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11686,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 11688,
+      "length": 1,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 11700,
+      "length": 1,
+      "value": "\": \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 11713,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 11866,
+      "length": 28,
+      "value": "\"Focus Score: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 11893,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12065,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12077,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12698,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12747,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13810,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 14016,
+      "length": 13,
+      "value": "\"captureMode\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15390,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16039,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16773,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 16823,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 16829,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 16928,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 16934,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 17588,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 17594,
+      "length": 3,
+      "value": "6.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 17693,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 17699,
+      "length": 3,
+      "value": "6.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19347,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20676,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22351,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 23610,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 23713,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 24774,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 24874,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 25505,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 25976,
+      "length": 3,
+      "value": "0.9"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 27088,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 27164,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 27968,
+      "length": 3,
+      "value": "600"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "Dictionary",
+      "offset": 30978,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 31863,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 32369,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 32410,
+      "length": 8,
+      "value": "\"_FRONT\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 32857,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 32888,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 33007,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 33205,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 33287,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 33919,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 34075,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 34136,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 34207,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 34402,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 34457,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 34606,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 34661,
+      "length": 18,
+      "value": "\"Realness Scores:\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 34728,
+      "length": 14,
+      "value": "\"Top Matches:\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 34791,
+      "length": 14,
+      "value": "\"Focus Score:\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 35215,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 36257,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 36821,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 37078,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/IDCapture\/IDCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 37637,
+      "length": 5,
+      "value": "false"
     }
   ]
 }

@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
 // swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SelfieCapture_Swift
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AudioToolbox
@@ -40,12 +40,12 @@ public struct CustomerEnrollResult {
   public var back: IDentitySDK_Swift.DetectedData?
   public func submit(additionalDocuments: [IDentitySDK_Swift.AdditionalDocumentsRequest]? = nil, cardToken: Swift.String? = nil, cardLast4: Swift.String? = nil, completion: @escaping IDentitySDK_Swift.ValidateIdCustomerEnrollAPICompletion)
 }
-public typealias LiveFaceCheckCompletion = (_ result: Swift.Result<SelfieCapture_Swift.LiveFaceCheckResult, Swift.Error>) -> Swift.Void
-public typealias CustomerEnrollBiometricsCompletion = (_ result: Swift.Result<SelfieCapture_Swift.CustomerEnrollBiometricsResult, Swift.Error>) -> Swift.Void
-public typealias CustomerVerificationCompletion = (_ result: Swift.Result<SelfieCapture_Swift.CustomerVerificationResult, Swift.Error>) -> Swift.Void
-public typealias CustomerIdentifyCompletion = (_ result: Swift.Result<SelfieCapture_Swift.CustomerIdentifyResult, Swift.Error>) -> Swift.Void
-public typealias ValidateIdMatchFaceCompletion = (_ result: Swift.Result<SelfieCapture_Swift.ValidateIdMatchFaceResult, Swift.Error>) -> Swift.Void
-public typealias ValidateIdCustomerEnrollCompletion = (_ result: Swift.Result<SelfieCapture_Swift.CustomerEnrollResult, Swift.Error>) -> Swift.Void
+public typealias LiveFaceCheckCompletion = (_ result: Swift.Result<SelfieCapture_Swift.LiveFaceCheckResult, any Swift.Error>) -> Swift.Void
+public typealias CustomerEnrollBiometricsCompletion = (_ result: Swift.Result<SelfieCapture_Swift.CustomerEnrollBiometricsResult, any Swift.Error>) -> Swift.Void
+public typealias CustomerVerificationCompletion = (_ result: Swift.Result<SelfieCapture_Swift.CustomerVerificationResult, any Swift.Error>) -> Swift.Void
+public typealias CustomerIdentifyCompletion = (_ result: Swift.Result<SelfieCapture_Swift.CustomerIdentifyResult, any Swift.Error>) -> Swift.Void
+public typealias ValidateIdMatchFaceCompletion = (_ result: Swift.Result<SelfieCapture_Swift.ValidateIdMatchFaceResult, any Swift.Error>) -> Swift.Void
+public typealias ValidateIdCustomerEnrollCompletion = (_ result: Swift.Result<SelfieCapture_Swift.CustomerEnrollResult, any Swift.Error>) -> Swift.Void
 extension IDentitySDK_Swift.IDentitySDK {
   public static var customerLiveCheckRequest: IDentitySDK_Swift.CustomerLiveCheckRequest?
   public class func liveFaceCheck(from presenter: UIKit.UIViewController, completion: @escaping SelfieCapture_Swift.LiveFaceCheckCompletion)

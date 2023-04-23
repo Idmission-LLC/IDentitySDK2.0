@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		s2XSuMpXVpvRiz2U8wk5n43t3pk=
+		WfxVkZVaWzRWIO8hOvz2HjCS9VY=
 		</data>
 		<key>Headers/VideoCapture_Swift-Swift.h</key>
 		<data>
-		ikkz8AfEcsx4dzDW5JJYP7fa9ZM=
+		gFeg9hn/zZabaoTcFbhcctTUK/o=
 		</data>
 		<key>Headers/VideoCapture_Swift.h</key>
 		<data>
@@ -18,31 +18,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vFgU5UfvrKeMktoFFqclupCoZ6A=
+		ySAVAruSl+CezE4IjrwVv9U5JFw=
 		</data>
 		<key>Modules/VideoCapture_Swift.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		8WymWyPZghUpqfSuJ/+szRR7JOM=
+		u0zx8gSa3lQFpStqNqC6CamYVA0=
 		</data>
 		<key>Modules/VideoCapture_Swift.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		TCLxJeEnFU48GiEdkxMgRVDP78I=
+		hX7icumRjk0ZcwWnOkua8UTbVaQ=
 		</data>
 		<key>Modules/VideoCapture_Swift.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		FRP/3L8lG6myhnsf147jLQU6/3k=
+		v882rs+B9rV+Lp7VQ/OKerzr5i0=
 		</data>
 		<key>Modules/VideoCapture_Swift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		Ti2368VccnJd/49yheJwnvmuXOY=
+		Fq44KsQhVR2yWylXPl5HW651Uf8=
 		</data>
 		<key>Modules/VideoCapture_Swift.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		FRP/3L8lG6myhnsf147jLQU6/3k=
+		v882rs+B9rV+Lp7VQ/OKerzr5i0=
 		</data>
 		<key>Modules/VideoCapture_Swift.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ktC1bR6MBDn49uJxSR/dNyQ+x00=
+		Mh0IQqBciNWN3iFMlCmB6vXQxlA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>VideoCapture.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
 		<data>
-		Qt9uS9eaoQmdMhg6XSty8fcHdY0=
+		qKxvp+31LFsVoHO4AA9gPpSUxAU=
 		</data>
 		<key>VideoCapture.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
 		<data>
-		voTlGDx6ElgXv19xSJKijps/1Vo=
+		cqYUbgkqQfWyG4TiYkbRuATt8KY=
 		</data>
 		<key>facenet.tflite</key>
 		<data>
@@ -95,14 +95,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X7MzDDBFPQUeuDq/y8eoks98I2Xg7gUTqXFP5ggYiKM=
+			f/rylsVR80AZ5jROpvNJq+vtboVF3I0sMwrE+FxiygU=
 			</data>
 		</dict>
 		<key>Headers/VideoCapture_Swift-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kfc+j8nLpXf/fh4HYhp5AZHx+tfyCJjGZcuz19OXDMA=
+			vDDbz2XT4xm4TVEphG0Njn+Zrypex3uRykkLbwmFXD8=
 			</data>
 		</dict>
 		<key>Headers/VideoCapture_Swift.h</key>
@@ -116,42 +116,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7282QoBV9Jml3zg7ANy2NzgCWeLCmjuRaF5pvFdtNEw=
+			rBYx840sBDCWRa6T6YSss8o5cvhLaio67RZJfsYcwdM=
 			</data>
 		</dict>
 		<key>Modules/VideoCapture_Swift.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+cIh8fspt6AyHhHLef2gy77HFZK5t71AByaP5MmH50M=
+			Uq/7eEy4uxywd40jhL4M+b7p8Xb/eP9AqdVRhRygMn8=
 			</data>
 		</dict>
 		<key>Modules/VideoCapture_Swift.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A0WQiLeoLTFKcc1w57iaGNAE3c2dLIPmeJmsPYmHVGw=
+			ZyuwX/rXDf5qAgSFxqz2aiH7Tp8h3LY4uleEx8nKjCE=
 			</data>
 		</dict>
 		<key>Modules/VideoCapture_Swift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PF10D3jBRwFJ6ud046fkFnNdbW5JYZZj4usTCSvNxao=
+			KcKE49dU1PNataBXGd2cmF4bLmvUCg43kUNxxqEgl6A=
 			</data>
 		</dict>
 		<key>Modules/VideoCapture_Swift.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A0WQiLeoLTFKcc1w57iaGNAE3c2dLIPmeJmsPYmHVGw=
+			ZyuwX/rXDf5qAgSFxqz2aiH7Tp8h3LY4uleEx8nKjCE=
 			</data>
 		</dict>
 		<key>Modules/VideoCapture_Swift.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8KO7aoSb69D90HpxzSBqguKuyKFSH2EXMN8znQ0RWl0=
+			FF8RdxxKehr+tkl4vn4xkVZbuwcduxMWNgiQ88VhnHg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -214,14 +214,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rlz+KhZR20y7Mlzfo6Fs9qu6aqJfx3Vgknz+rXfnGwM=
+			OwBio3qaCOLpQj8oFNJXuEAr9VnW9iCAIgfEqGeLIFo=
 			</data>
 		</dict>
 		<key>VideoCapture.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9AzKBy0rtYKJP+544E81dGFhYIvlIqMyCKCUUPsszC4=
+			1GClbOSl2IEuOCU5FuGxwqtEh21E9/CG9XoRv8AAg4s=
 			</data>
 		</dict>
 		<key>facenet.tflite</key>

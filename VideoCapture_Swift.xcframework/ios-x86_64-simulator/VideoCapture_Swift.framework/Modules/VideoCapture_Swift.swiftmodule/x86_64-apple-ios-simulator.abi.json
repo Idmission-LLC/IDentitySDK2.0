@@ -1155,74 +1155,1530 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Extensions\/IDentitySDK+VideoCapture.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2025,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "FloatLiteral",
+      "offset": 3005,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3063,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3112,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4646,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4965,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5127,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5139,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5219,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 5400,
+      "length": 10,
+      "value": "\"faceRect\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 5448,
+      "length": 10,
+      "value": "\"fullSize\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 6000,
+      "length": 19,
+      "value": "\"faceLivenessScore\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 6075,
+      "length": 43,
+      "value": "\"Face Liveness Score: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 6117,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6165,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 6231,
+      "length": 24,
+      "value": "\"leftEyeOpenProbability\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 6316,
+      "length": 54,
+      "value": "\"Left Eye Open Probability: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 6369,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 6432,
+      "length": 25,
+      "value": "\"rightEyeOpenProbability\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 6519,
+      "length": 56,
+      "value": "\"Right Eye Open Probability: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 6574,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 6633,
+      "length": 21,
+      "value": "\"faceMaskProbability\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 6711,
+      "length": 46,
+      "value": "\"Mask Detection Score: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+SelfieCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 6756,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Extensions\/IDentitySDK+VideoCapture.swift",
       "kind": "BooleanLiteral",
       "offset": 495,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Extensions\/IDentitySDK+VideoCapture.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Extensions\/IDentitySDK+VideoCapture.swift",
       "kind": "BooleanLiteral",
       "offset": 596,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Extensions\/IDentitySDK+VideoCapture.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Extensions\/IDentitySDK+VideoCapture.swift",
       "kind": "BooleanLiteral",
       "offset": 680,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Extensions\/IDentitySDK+VideoCapture.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Extensions\/IDentitySDK+VideoCapture.swift",
       "kind": "BooleanLiteral",
       "offset": 762,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Extensions\/IDentitySDK+VideoCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 1173,
+      "length": 14,
+      "value": "\"VideoCapture\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Extensions\/IDentitySDK+VideoCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2849,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Extensions\/IDentitySDK+VideoCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2986,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 421,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 509,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1307,
+      "offset": 1369,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1586,
+      "offset": 1648,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4432,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4477,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4588,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4647,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4799,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4845,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4886,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5003,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 5013,
+      "length": 4,
+      "value": "0.33"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5209,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7024,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8383,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 8458,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 8476,
+      "length": 37,
+      "value": "\"Speech Recognition Is Not Available\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 8602,
+      "length": 4,
+      "value": "\"OK\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8681,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9511,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9523,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9582,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9632,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10246,
+      "length": 10,
+      "value": "\"Settings\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10374,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10547,
+      "length": 4,
+      "value": "\"OK\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10660,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10678,
+      "length": 35,
+      "value": "\"Microphone Permission Not Granted\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10853,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 11650,
+      "length": 10,
+      "value": "\"Settings\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11790,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 11963,
+      "length": 4,
+      "value": "\"OK\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 12096,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 12114,
+      "length": 43,
+      "value": "\"Speech Recognition Permission Not Granted\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12297,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 13177,
+      "length": 28,
+      "value": "\"videoIdResultSelfie == nil\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13507,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13581,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13655,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13728,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13773,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13994,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14292,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14767,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14886,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16520,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16731,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 17616,
+      "length": 4,
+      "value": "0.75"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17725,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18225,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18722,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18758,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18804,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19048,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19517,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20290,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "Array",
+      "offset": 20631,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 21182,
+      "length": 3,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 21689,
+      "length": 3,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 21932,
+      "length": 26,
+      "value": "\"Speech Recognition Error\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 22076,
+      "length": 4,
+      "value": "\"OK\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22147,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 22298,
+      "length": 27,
+      "value": "\"overlay_portrait_id_front\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 22479,
+      "length": 27,
+      "value": "\"overlay_landscape_id_back\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22690,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22731,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22749,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22769,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22809,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22850,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22875,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22888,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 23066,
+      "length": 9,
+      "value": "\"%d:%02d\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 23087,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 23101,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 977,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1634,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2175,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "FloatLiteral",
+      "offset": 2225,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "FloatLiteral",
+      "offset": 2231,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "FloatLiteral",
+      "offset": 2330,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "FloatLiteral",
+      "offset": 2336,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "FloatLiteral",
+      "offset": 2993,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "FloatLiteral",
+      "offset": 2999,
+      "length": 3,
+      "value": "6.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "FloatLiteral",
+      "offset": 3098,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "FloatLiteral",
+      "offset": 3104,
+      "length": 3,
+      "value": "6.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 4206,
+      "length": 16,
+      "value": "\"Face Distance:\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 4267,
+      "length": 14,
+      "value": "\"Levenshtein:\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4475,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 5019,
+      "length": 38,
+      "value": "\"Face Distance: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 5056,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 5215,
+      "length": 28,
+      "value": "\"Face Distance: None Found!\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5288,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 5705,
+      "length": 36,
+      "value": "\"Levenshtein: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 5740,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 5972,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 5977,
+      "length": 44,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 6018,
+      "length": 1,
+      "value": "\"\n\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6571,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8170,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 9151,
+      "length": 36,
+      "value": "\"Levenshtein: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 9186,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9620,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 10541,
+      "length": 11,
+      "value": "\"Read Text\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "FloatLiteral",
+      "offset": 10685,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10739,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10797,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11535,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 11576,
+      "length": 8,
+      "value": "\"_FRONT\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12025,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12056,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12178,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12376,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12458,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12986,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13144,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "FloatLiteral",
+      "offset": 13205,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13276,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "FloatLiteral",
+      "offset": 13471,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13526,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13677,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 13733,
+      "length": 18,
+      "value": "\"Realness Scores:\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 13800,
+      "length": 14,
+      "value": "\"Top Matches:\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14301,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15359,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 15651,
+      "length": 11,
+      "value": "\"debugData\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15834,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 15997,
+      "length": 117,
+      "value": "\"Photocopy Score: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 16039,
+      "length": 1,
+      "value": "\"\nRealness Score: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 16076,
+      "length": 1,
+      "value": "\"\nScreen Score: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 16113,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 16220,
+      "length": 14,
+      "value": "\"Top Matches:\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 16330,
+      "length": 44,
+      "value": "\"\n - \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16346,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 16348,
+      "length": 1,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 16360,
+      "length": 1,
+      "value": "\": \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 16373,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16731,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16743,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17955,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "StringLiteral",
+      "offset": 18161,
+      "length": 13,
+      "value": "\"captureMode\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21522,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21567,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21653,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21736,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21796,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Video Capture View Controller\/VideoCaptureViewController+IDCaptureDelegate.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21810,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
       "kind": "StringLiteral",
       "offset": 940,
       "length": 16,
       "value": "\"facenet.tflite\""
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/VideoCapture\/AudioCaptureSession.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "StringLiteral",
+      "offset": 1177,
+      "length": 3,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1219,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1505,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "StringLiteral",
+      "offset": 1820,
+      "length": 69,
+      "value": "\"ERROR initializing FaceMatchDetector: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "StringLiteral",
+      "offset": 1888,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2143,
+      "length": 3,
+      "value": "160"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2156,
+      "length": 3,
+      "value": "160"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2352,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2456,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2763,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2868,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2972,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3077,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3292,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "FloatLiteral",
+      "offset": 3457,
+      "length": 5,
+      "value": "1e-10"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3610,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "FloatLiteral",
+      "offset": 3761,
+      "length": 5,
+      "value": "1e-10"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3916,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3943,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "StringLiteral",
+      "offset": 4286,
+      "length": 59,
+      "value": "\"ERROR detecting face match: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "StringLiteral",
+      "offset": 4344,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "Array",
+      "offset": 4470,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "StringLiteral",
+      "offset": 4651,
+      "length": 10,
+      "value": "\"average:\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "StringLiteral",
+      "offset": 4890,
+      "length": 9,
+      "value": "\"stddev:\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/Face Match Detection\/FaceMatchDetector.swift",
+      "kind": "FloatLiteral",
+      "offset": 5124,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/VideoRetryViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 686,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/VideoRetryViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 752,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/VideoRetryViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3488,
+      "length": 17,
+      "value": "\"Live Face Lost.\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/VideoRetryViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3508,
+      "length": 28,
+      "value": "\"Voice does not match text.\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/VideoRetryViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3540,
+      "length": 19,
+      "value": "\" Please try again\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/VideoRetryViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4709,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/AudioCaptureSession.swift",
       "kind": "StringLiteral",
       "offset": 439,
       "length": 26,
       "value": "\"AudioCaptureSessionQueue\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/AudioCaptureSession.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1471,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/AudioCaptureSession.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1634,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/AudioCaptureSession.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1787,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/AudioCaptureSession.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2316,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/AudioCaptureSession.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2553,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/VideoCapture\/AudioCaptureSession.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2626,
+      "length": 4,
+      "value": "true"
     }
   ]
 }

@@ -2924,46 +2924,508 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
       "kind": "Array",
       "offset": 684,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
       "kind": "StringLiteral",
       "offset": 1129,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
       "kind": "StringLiteral",
       "offset": 1218,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14132,
+      "offset": 2518,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2558,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2906,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 2916,
+      "length": 4,
+      "value": "0.33"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3345,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3630,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4679,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4831,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureInstructionsViewController.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5147,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5162,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5280,
+      "length": 3,
+      "value": "-30"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5296,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5399,
+      "length": 3,
+      "value": "-35"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5415,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5466,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6410,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7639,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7685,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7781,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8413,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8575,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8587,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8661,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 8842,
+      "length": 10,
+      "value": "\"faceRect\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 8890,
+      "length": 10,
+      "value": "\"fullSize\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9442,
+      "length": 19,
+      "value": "\"faceLivenessScore\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9517,
+      "length": 43,
+      "value": "\"Face Liveness Score: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9559,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9607,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9673,
+      "length": 24,
+      "value": "\"leftEyeOpenProbability\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9758,
+      "length": 54,
+      "value": "\"Left Eye Open Probability: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9811,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9874,
+      "length": 25,
+      "value": "\"rightEyeOpenProbability\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9961,
+      "length": 56,
+      "value": "\"Right Eye Open Probability: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10016,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10075,
+      "length": 21,
+      "value": "\"faceMaskProbability\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10153,
+      "length": 46,
+      "value": "\"Mask Detection Score: \""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10198,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12185,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12251,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13095,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13161,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13673,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14383,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 14659,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16707,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18092,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19240,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20577,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20689,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22460,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 23226,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 23541,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureInstructionsViewController.swift",
       "kind": "StringLiteral",
       "offset": 868,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/amold\/Documents\/SDK-2.0\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureInstructionsViewController.swift",
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureInstructionsViewController.swift",
       "kind": "StringLiteral",
       "offset": 957,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureInstructionsViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1904,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/SelfieCaptureInstructionsViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3900,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/RetryViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 703,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/RetryViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 769,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/RetryViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2167,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/Extensions\/IDentitySDK+SelfieCapture.swift",
+      "kind": "StringLiteral",
+      "offset": 9040,
+      "length": 15,
+      "value": "\"SelfieCapture\""
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/Extensions\/IDentitySDK+SelfieCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10267,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/Extensions\/IDentitySDK+SelfieCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10404,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/Extensions\/IDentitySDK+SelfieCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11766,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/Extensions\/IDentitySDK+SelfieCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11903,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/Extensions\/IDentitySDK+SelfieCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13057,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/Extensions\/IDentitySDK+SelfieCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13194,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/Extensions\/IDentitySDK+SelfieCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14213,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/thezonie\/Documents\/Work\/The Zonie, LLC\/IDmission\/idmissioniossdk\/IDentitySDK\/SelfieCapture\/Extensions\/IDentitySDK+SelfieCapture.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14350,
+      "length": 4,
+      "value": "true"
     }
   ]
 }

@@ -864,16 +864,17 @@ IDentitySDK.videoIDCapture(from: self, front: lastValidateIdResult.front, back: 
 //IDCapture Customization
 IDCapture.options.frontRealnessThreshold = 0.5
 IDCapture.options.backRealnessThreshold = 0.3
-IDCapture.options.frontDocumentConfidence = 0.7
-IDCapture.options.backDocumentConfidence = 0.7
+IDCapture.options.frontDocumentConfidence = 0.85
+IDCapture.options.backDocumentConfidence = 0.85
 IDCapture.options.documentComponentConfidence = 0.5
-IDCapture.options.lowerWidthThresholdTolerance = 0.4
-IDCapture.options.upperWidthThresholdTolerance = 0.1
+IDCapture.options.lowerWidthThresholdTolerance = 0.2
+IDCapture.options.upperWidthThresholdTolerance = 0.05
 IDCapture.options.isDebugMode = true
 IDCapture.options.enableInstructionScreen = true
 IDCapture.options.enableRealId = true
 IDCapture.options.uploadIdData = true
 IDCapture.options.capture4K = true
+IDCapture.options.focusThreshold = 0.3
 
 //IDCapture Camera Screen UI Customization
 IDCapture.strings.closeButtonText = "Cancel"
@@ -890,6 +891,7 @@ IDCapture.strings.useFront = "Scan the front of ID"
 IDCapture.strings.scanBarcode = "Scan the barcode"
 IDCapture.strings.frontBackMismatch = "ID front and back do not match. Please try again."
 IDCapture.strings.autofillPrompt = "Place the barcode or machine-readable zone of your ID in the rectangle."
+IDCapture.strings.notInFocus = "Not in focus"
 IDCapture.colors.overlayTopViewColor = .white
 IDCapture.colors.closeButtonTextColor = .black
 IDCapture.colors.closeButtonColor = .white
@@ -960,6 +962,7 @@ SelfieCapture.options.isDebugMode = true
 SelfieCapture.options.enableInstructionScreen = true
 SelfieCapture.options.capture4K = false
 SelfieCapture.options.uploadFaceData = true
+SelfieCapture.options.ovalScaleMultiplier = 0.7
 
 //SelfieCapture Camera Screen UI Customization
 SelfieCapture.strings.captureSelfie = "Capture Selfie"
@@ -1185,6 +1188,11 @@ VideoCapture.strings.doneButton = "Done"
 
 
 ## SDK Version History
+
+### **v 9.5.2.2.3**
+- Downloading all models from server
+- Updated focus model to be downloaded from server and updated default focus threshold.
+- Enhancements added to improve handling of Video ID
 
 ### **v 9.4.8.2.1**
 - Added VideoIDCapture support

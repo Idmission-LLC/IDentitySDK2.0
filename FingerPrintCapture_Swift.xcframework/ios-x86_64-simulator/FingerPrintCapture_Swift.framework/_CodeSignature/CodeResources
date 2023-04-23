@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		v+y/992NrtZRtlTfJzJYsyNwZSI=
+		BhZVeA5rGqE3nHF37hMfBPWdTMw=
 		</data>
 		<key>FingerPrintCapture.storyboardc/6FJ-Vp-rmr-view-zev-N2-Iwe.nib</key>
 		<data>
-		zfEGOlwevx6MNMx8prGcJmjUz6o=
+		Wv5K+VxlwK9SrBEVfoB7fwOgnDk=
 		</data>
 		<key>FingerPrintCapture.storyboardc/FingerDetectionViewController.nib</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/FingerPrintCapture_Swift-Swift.h</key>
 		<data>
-		RQrbB2yjIPvEdokRCo/cI6rZ+/8=
+		uO4VekmNz2ZSOOsN/UXyIUXBJuw=
 		</data>
 		<key>Headers/FingerPrintCapture_Swift.h</key>
 		<data>
@@ -58,31 +58,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MT1pPRA1PUfBMz4IVEbAUksTWu0=
+		wgEJZ88SKaARGHvDJfoqoW8WcUQ=
 		</data>
 		<key>Modules/FingerPrintCapture_Swift.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		bIUX44l0HTNd1l1PEoVAQkowKhw=
+		BDYnvodBCgLLd/nrr7B14BabKGU=
 		</data>
 		<key>Modules/FingerPrintCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		AopCerzOEXoDXzBkGZmEX8Mybgw=
+		OkhCjiQ/cWpOHaFu3us4MnPNrMU=
 		</data>
 		<key>Modules/FingerPrintCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		4+u25SW9c4f3+f149rJ/FTIQKn8=
+		gUiOxU8zPhoXVyvaG1xbj78gw4M=
 		</data>
 		<key>Modules/FingerPrintCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		D+ja8L3NX+z1b8YmP9In2yG3sDE=
+		A5Zjh58qzI6OKhA4CFTOEBDzjtg=
 		</data>
 		<key>Modules/FingerPrintCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		4+u25SW9c4f3+f149rJ/FTIQKn8=
+		gUiOxU8zPhoXVyvaG1xbj78gw4M=
 		</data>
 		<key>Modules/FingerPrintCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		X1Jv156a3kZE/zvNM/Kfif5f8gw=
+		5C8wk0DP1PvlOPYI4vTD5jxJnq0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,14 +95,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gDW/sqCXh3w1LQz8MwMZots5YOHxHsm+QlSBG85ttN4=
+			qNA1Eo4CrPlkVJd+o5vAI7rb9D8yDK1yH61KX8BmhPQ=
 			</data>
 		</dict>
 		<key>FingerPrintCapture.storyboardc/6FJ-Vp-rmr-view-zev-N2-Iwe.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3OA6KuIM9omvgNAfK3MYAKla+MPq6LDAjIOA54KXFic=
+			1o5TT2WyTMYVZai3ap8O2KYGaYZjnSz0Vq/I7ObuRlc=
 			</data>
 		</dict>
 		<key>FingerPrintCapture.storyboardc/FingerDetectionViewController.nib</key>
@@ -151,7 +151,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ii2vNqjky4iXZ9VOsEcxWi74GnuCtm8lN7Oii55qI3s=
+			GgaeG4jFcRX5BV4/qdR2Yzk2x0MTjqj5DMZk89ftdr0=
 			</data>
 		</dict>
 		<key>Headers/FingerPrintCapture_Swift.h</key>
@@ -186,42 +186,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YstaO5cwyDeSTHCRtLz1qXzeZS7zrFcInCekwl1otac=
+			OdNELT2+Rv5X1gBpBsMDlaYv4Ag2FwV8Zf3uui0BF5g=
 			</data>
 		</dict>
 		<key>Modules/FingerPrintCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			roCsXbxNt05htNhbw+j2kSNV5zxG3GWSbdlXAxea+q4=
+			fvudOUSaI5tW2OOHbCg7iBOBJsk+tkY9S1wbRUCe788=
 			</data>
 		</dict>
 		<key>Modules/FingerPrintCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n/NrMbkqFVyugsjbO6GccUmr5/GHpMMf08HNwUzi9OU=
+			gsejjKiY8NrvALg+oiwoEBXip8Na1hukmTFeUXYWSIw=
 			</data>
 		</dict>
 		<key>Modules/FingerPrintCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hYdeqEdFQX1lYDU7zf+nXye3lvqebsZcIW2LOV+0OEs=
+			OAr0BMEVVoHEbuxLbuCxuAbxo2pAMrbOpbK5IOVN1v4=
 			</data>
 		</dict>
 		<key>Modules/FingerPrintCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n/NrMbkqFVyugsjbO6GccUmr5/GHpMMf08HNwUzi9OU=
+			gsejjKiY8NrvALg+oiwoEBXip8Na1hukmTFeUXYWSIw=
 			</data>
 		</dict>
 		<key>Modules/FingerPrintCapture_Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GLD/xU4Sq59z1CfnC4DJc4N8XhXM66KRvPdcC2VVv8Q=
+			vJrCaZsTCikVCtMvAqBYGEQVPF7z84GY56TwHX1eUt0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
